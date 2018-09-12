@@ -24,7 +24,7 @@ prices_json = JSON.parse(prices_file)
 
 prices_json['prices'].each { |price|
     price['zones'].each { |z|
-        zone = Zone.find_by(identifier: z[:name])
+        zone = Zone.find_by(identifier: z['name'])
         zone_prices = z['prices']
         zone_prices.keys.each { |gt|
             gas_type = GasType.find_by(identifier: gt)
