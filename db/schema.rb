@@ -17,6 +17,7 @@ ActiveRecord::Schema.define(version: 2018_09_10_213344) do
     t.string "identifier"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
+    t.index ["identifier"], name: "index_gas_types_on_identifier"
   end
 
   create_table "prices", force: :cascade do |t|
@@ -36,6 +37,7 @@ ActiveRecord::Schema.define(version: 2018_09_10_213344) do
     t.string "identifier"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
+    t.index ["identifier"], name: "index_zones_on_identifier"
   end
 
 end

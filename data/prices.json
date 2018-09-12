@@ -1,0 +1,7165 @@
+{
+  "prices": [
+    {
+      "from": "2011-01-01 00:00:00",
+      "to": "2011-01-03 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "3.49",
+            "diesel_low_sulfur": "",
+            "premium": "3.85",
+            "regular": "3.68"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "3.49",
+            "diesel_low_sulfur": "",
+            "premium": "3.85",
+            "regular": "3.68"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "3.53",
+            "diesel_low_sulfur": "",
+            "premium": "3.89",
+            "regular": "3.72"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2011-01-04 00:00:00",
+      "to": "2011-01-10 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "3.52",
+            "diesel_low_sulfur": "",
+            "premium": "3.87",
+            "regular": "3.71"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "3.52",
+            "diesel_low_sulfur": "",
+            "premium": "3.88",
+            "regular": "3.71"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "3.56",
+            "diesel_low_sulfur": "",
+            "premium": "3.91",
+            "regular": "3.75"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2011-01-11 00:00:00",
+      "to": "2011-01-17 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "3.54",
+            "diesel_low_sulfur": "",
+            "premium": "3.91",
+            "regular": "3.75"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "3.54",
+            "diesel_low_sulfur": "",
+            "premium": "3.91",
+            "regular": "3.76"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "3.58",
+            "diesel_low_sulfur": "",
+            "premium": "3.95",
+            "regular": "3.79"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2011-01-18 00:00:00",
+      "to": "2011-01-24 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "3.59",
+            "diesel_low_sulfur": "",
+            "premium": "3.93",
+            "regular": "3.77"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "3.59",
+            "diesel_low_sulfur": "",
+            "premium": "3.93",
+            "regular": "3.78"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "3.63",
+            "diesel_low_sulfur": "",
+            "premium": "3.96",
+            "regular": "3.81"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2011-01-25 00:00:00",
+      "to": "2011-01-31 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "3.64",
+            "diesel_low_sulfur": "",
+            "premium": "3.95",
+            "regular": "3.80"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "3.64",
+            "diesel_low_sulfur": "",
+            "premium": "3.95",
+            "regular": "3.80"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "3.68",
+            "diesel_low_sulfur": "",
+            "premium": "3.98",
+            "regular": "3.83"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2011-02-01 00:00:00",
+      "to": "2011-02-07 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "3.69",
+            "diesel_low_sulfur": "",
+            "premium": "3.94",
+            "regular": "3.79"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "3.69",
+            "diesel_low_sulfur": "",
+            "premium": "3.95",
+            "regular": "3.79"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "3.73",
+            "diesel_low_sulfur": "",
+            "premium": "3.98",
+            "regular": "3.83"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2011-02-08 00:00:00",
+      "to": "2011-02-14 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "3.74",
+            "diesel_low_sulfur": "",
+            "premium": "3.95",
+            "regular": "3.79"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "3.74",
+            "diesel_low_sulfur": "",
+            "premium": "3.95",
+            "regular": "3.79"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "3.78",
+            "diesel_low_sulfur": "",
+            "premium": "3.99",
+            "regular": "3.82"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2011-02-15 00:00:00",
+      "to": "2011-02-21 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "3.78",
+            "diesel_low_sulfur": "",
+            "premium": "3.95",
+            "regular": "3.79"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "3.78",
+            "diesel_low_sulfur": "",
+            "premium": "3.95",
+            "regular": "3.79"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "3.82",
+            "diesel_low_sulfur": "",
+            "premium": "3.99",
+            "regular": "3.83"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2011-02-22 00:00:00",
+      "to": "2011-02-28 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "3.81",
+            "diesel_low_sulfur": "",
+            "premium": "3.99",
+            "regular": "3.83"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "3.82",
+            "diesel_low_sulfur": "",
+            "premium": "3.99",
+            "regular": "3.84"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "3.85",
+            "diesel_low_sulfur": "",
+            "premium": "4.03",
+            "regular": "3.87"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2011-03-01 00:00:00",
+      "to": "2011-03-07 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "3.85",
+            "diesel_low_sulfur": "",
+            "premium": "4.08",
+            "regular": "3.92"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "3.85",
+            "diesel_low_sulfur": "",
+            "premium": "4.08",
+            "regular": "3.93"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "3.89",
+            "diesel_low_sulfur": "",
+            "premium": "4.12",
+            "regular": "3.96"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2011-03-08 00:00:00",
+      "to": "2011-03-14 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "3.96",
+            "diesel_low_sulfur": "",
+            "premium": "4.23",
+            "regular": "4.07"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "3.97",
+            "diesel_low_sulfur": "",
+            "premium": "4.23",
+            "regular": "4.08"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "4.00",
+            "diesel_low_sulfur": "",
+            "premium": "4.27",
+            "regular": "4.11"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2011-03-15 00:00:00",
+      "to": "2011-03-21 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "4.08",
+            "diesel_low_sulfur": "",
+            "premium": "4.40",
+            "regular": "4.23"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "4.08",
+            "diesel_low_sulfur": "",
+            "premium": "4.41",
+            "regular": "4.23"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "4.12",
+            "diesel_low_sulfur": "",
+            "premium": "4.44",
+            "regular": "4.27"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2011-03-22 00:00:00",
+      "to": "2011-03-28 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "4.15",
+            "diesel_low_sulfur": "",
+            "premium": "4.46",
+            "regular": "4.28"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "4.15",
+            "diesel_low_sulfur": "",
+            "premium": "4.46",
+            "regular": "4.28"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "4.19",
+            "diesel_low_sulfur": "",
+            "premium": "4.50",
+            "regular": "4.32"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2011-03-29 00:00:00",
+      "to": "2011-04-04 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "4.16",
+            "diesel_low_sulfur": "",
+            "premium": "4.50",
+            "regular": "4.31"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "4.16",
+            "diesel_low_sulfur": "",
+            "premium": "4.51",
+            "regular": "4.31"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "4.20",
+            "diesel_low_sulfur": "",
+            "premium": "4.54",
+            "regular": "4.35"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2011-04-05 00:00:00",
+      "to": "2011-04-11 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "4.18",
+            "diesel_low_sulfur": "",
+            "premium": "4.55",
+            "regular": "4.34"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "4.18",
+            "diesel_low_sulfur": "",
+            "premium": "4.56",
+            "regular": "4.34"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "4.22",
+            "diesel_low_sulfur": "",
+            "premium": "4.59",
+            "regular": "4.38"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2011-04-12 00:00:00",
+      "to": "2011-04-18 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "4.26",
+            "diesel_low_sulfur": "",
+            "premium": "4.70",
+            "regular": "4.45"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "4.26",
+            "diesel_low_sulfur": "",
+            "premium": "4.70",
+            "regular": "4.45"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "4.29",
+            "diesel_low_sulfur": "",
+            "premium": "4.74",
+            "regular": "4.49"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2011-04-19 00:00:00",
+      "to": "2011-04-25 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "4.32",
+            "diesel_low_sulfur": "",
+            "premium": "4.82",
+            "regular": "4.53"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "4.32",
+            "diesel_low_sulfur": "",
+            "premium": "4.82",
+            "regular": "4.53"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "4.36",
+            "diesel_low_sulfur": "",
+            "premium": "4.86",
+            "regular": "4.57"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2011-04-26 00:00:00",
+      "to": "2011-05-02 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "4.37",
+            "diesel_low_sulfur": "",
+            "premium": "4.89",
+            "regular": "4.60"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "4.37",
+            "diesel_low_sulfur": "",
+            "premium": "4.89",
+            "regular": "4.60"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "4.40",
+            "diesel_low_sulfur": "",
+            "premium": "4.93",
+            "regular": "4.64"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2011-05-03 00:00:00",
+      "to": "2011-05-16 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "4.40",
+            "diesel_low_sulfur": "",
+            "premium": "4.86",
+            "regular": "4.62"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "4.40",
+            "diesel_low_sulfur": "",
+            "premium": "4.86",
+            "regular": "4.62"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "4.43",
+            "diesel_low_sulfur": "",
+            "premium": "4.90",
+            "regular": "4.65"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2011-05-17 00:00:00",
+      "to": "2011-05-30 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "4.28",
+            "diesel_low_sulfur": "",
+            "premium": "4.63",
+            "regular": "4.49"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "4.28",
+            "diesel_low_sulfur": "",
+            "premium": "4.64",
+            "regular": "4.50"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "4.32",
+            "diesel_low_sulfur": "",
+            "premium": "4.67",
+            "regular": "4.53"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2011-05-31 00:00:00",
+      "to": "2011-06-13 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "4.12",
+            "diesel_low_sulfur": "",
+            "premium": "4.40",
+            "regular": "4.29"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "4.12",
+            "diesel_low_sulfur": "",
+            "premium": "4.40",
+            "regular": "4.29"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "4.16",
+            "diesel_low_sulfur": "",
+            "premium": "4.43",
+            "regular": "4.33"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2011-06-14 00:00:00",
+      "to": "2011-06-27 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "4.15",
+            "diesel_low_sulfur": "",
+            "premium": "4.25",
+            "regular": "4.11"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "4.15",
+            "diesel_low_sulfur": "",
+            "premium": "4.25",
+            "regular": "4.11"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "4.19",
+            "diesel_low_sulfur": "",
+            "premium": "4.29",
+            "regular": "4.15"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2011-06-28 00:00:00",
+      "to": "2011-07-11 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "4.17",
+            "diesel_low_sulfur": "",
+            "premium": "4.21",
+            "regular": "4.06"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "4.17",
+            "diesel_low_sulfur": "",
+            "premium": "4.21",
+            "regular": "4.06"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "4.21",
+            "diesel_low_sulfur": "",
+            "premium": "4.25",
+            "regular": "4.10"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2011-07-12 00:00:00",
+      "to": "2011-07-25 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "4.11",
+            "diesel_low_sulfur": "",
+            "premium": "4.21",
+            "regular": "4.05"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "4.11",
+            "diesel_low_sulfur": "",
+            "premium": "4.21",
+            "regular": "4.06"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "4.14",
+            "diesel_low_sulfur": "",
+            "premium": "4.25",
+            "regular": "4.09"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2011-07-26 00:00:00",
+      "to": "2011-08-08 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "4.19",
+            "diesel_low_sulfur": "",
+            "premium": "4.41",
+            "regular": "4.20"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "4.19",
+            "diesel_low_sulfur": "",
+            "premium": "4.41",
+            "regular": "4.20"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "4.23",
+            "diesel_low_sulfur": "",
+            "premium": "4.45",
+            "regular": "4.23"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2011-08-09 00:00:00",
+      "to": "2011-08-22 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "4.25",
+            "diesel_low_sulfur": "",
+            "premium": "4.45",
+            "regular": "4.23"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "4.26",
+            "diesel_low_sulfur": "",
+            "premium": "4.46",
+            "regular": "4.23"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "4.29",
+            "diesel_low_sulfur": "",
+            "premium": "4.49",
+            "regular": "4.26"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2011-08-23 00:00:00",
+      "to": "2011-09-05 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "4.13",
+            "diesel_low_sulfur": "",
+            "premium": "4.29",
+            "regular": "4.07"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "4.13",
+            "diesel_low_sulfur": "",
+            "premium": "4.29",
+            "regular": "4.08"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "4.17",
+            "diesel_low_sulfur": "",
+            "premium": "4.32",
+            "regular": "4.11"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2011-09-06 00:00:00",
+      "to": "2011-09-19 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "4.10",
+            "diesel_low_sulfur": "",
+            "premium": "4.32",
+            "regular": "4.05"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "4.10",
+            "diesel_low_sulfur": "",
+            "premium": "4.32",
+            "regular": "4.05"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "4.14",
+            "diesel_low_sulfur": "",
+            "premium": "4.36",
+            "regular": "4.09"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2011-09-20 00:00:00",
+      "to": "2011-10-03 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "4.16",
+            "diesel_low_sulfur": "",
+            "premium": "4.34",
+            "regular": "4.08"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "4.16",
+            "diesel_low_sulfur": "",
+            "premium": "4.34",
+            "regular": "4.08"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "4.20",
+            "diesel_low_sulfur": "",
+            "premium": "4.38",
+            "regular": "4.12"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2011-10-04 00:00:00",
+      "to": "2011-10-17 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "4.07",
+            "diesel_low_sulfur": "",
+            "premium": "4.11",
+            "regular": "3.90"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "4.07",
+            "diesel_low_sulfur": "",
+            "premium": "4.11",
+            "regular": "3.91"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "4.11",
+            "diesel_low_sulfur": "",
+            "premium": "4.14",
+            "regular": "3.94"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2011-10-18 00:00:00",
+      "to": "2011-10-31 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "4.02",
+            "diesel_low_sulfur": "",
+            "premium": "4.05",
+            "regular": "3.88"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "4.02",
+            "diesel_low_sulfur": "",
+            "premium": "4.05",
+            "regular": "3.89"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "4.06",
+            "diesel_low_sulfur": "",
+            "premium": "4.09",
+            "regular": "3.92"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2011-11-01 00:00:00",
+      "to": "2011-11-14 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "4.12",
+            "diesel_low_sulfur": "",
+            "premium": "4.10",
+            "regular": "3.95"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "4.12",
+            "diesel_low_sulfur": "",
+            "premium": "4.10",
+            "regular": "3.95"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "4.16",
+            "diesel_low_sulfur": "",
+            "premium": "4.13",
+            "regular": "3.99"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2011-11-15 00:00:00",
+      "to": "2011-11-28 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "4.23",
+            "diesel_low_sulfur": "",
+            "premium": "4.08",
+            "regular": "3.91"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "4.23",
+            "diesel_low_sulfur": "",
+            "premium": "4.08",
+            "regular": "3.91"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "4.26",
+            "diesel_low_sulfur": "",
+            "premium": "4.12",
+            "regular": "3.94"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2011-11-29 00:00:00",
+      "to": "2011-12-12 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "4.25",
+            "diesel_low_sulfur": "",
+            "premium": "4.01",
+            "regular": "3.81"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "4.26",
+            "diesel_low_sulfur": "",
+            "premium": "4.02",
+            "regular": "3.82"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "4.30",
+            "diesel_low_sulfur": "",
+            "premium": "4.05",
+            "regular": "3.85"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2011-12-13 00:00:00",
+      "to": "2011-12-26 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "4.17",
+            "diesel_low_sulfur": "",
+            "premium": "3.96",
+            "regular": "3.73"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "4.18",
+            "diesel_low_sulfur": "",
+            "premium": "3.97",
+            "regular": "3.74"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "4.21",
+            "diesel_low_sulfur": "",
+            "premium": "4.00",
+            "regular": "3.77"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2011-12-27 00:00:00",
+      "to": "2011-12-31 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "4.04",
+            "diesel_low_sulfur": "",
+            "premium": "3.98",
+            "regular": "3.75"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "4.05",
+            "diesel_low_sulfur": "",
+            "premium": "3.99",
+            "regular": "3.76"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "4.09",
+            "diesel_low_sulfur": "",
+            "premium": "4.02",
+            "regular": "3.79"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2012-01-01 00:00:00",
+      "to": "2012-01-09 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "4.04",
+            "diesel_low_sulfur": "",
+            "premium": "4.16",
+            "regular": "3.93"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "4.05",
+            "diesel_low_sulfur": "",
+            "premium": "4.17",
+            "regular": "3.93"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "4.09",
+            "diesel_low_sulfur": "",
+            "premium": "4.20",
+            "regular": "3.97"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2012-01-10 00:00:00",
+      "to": "2012-01-23 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "4.06",
+            "diesel_low_sulfur": "",
+            "premium": "4.22",
+            "regular": "3.99"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "4.07",
+            "diesel_low_sulfur": "",
+            "premium": "4.23",
+            "regular": "4.00"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "4.10",
+            "diesel_low_sulfur": "",
+            "premium": "4.27",
+            "regular": "4.04"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2012-01-24 00:00:00",
+      "to": "2012-02-06 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "4.19",
+            "diesel_low_sulfur": "",
+            "premium": "4.41",
+            "regular": "4.14"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "4.20",
+            "diesel_low_sulfur": "",
+            "premium": "4.42",
+            "regular": "4.15"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "4.23",
+            "diesel_low_sulfur": "",
+            "premium": "4.45",
+            "regular": "4.18"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2012-02-07 00:00:00",
+      "to": "2012-02-20 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "4.23",
+            "diesel_low_sulfur": "",
+            "premium": "4.52",
+            "regular": "4.23"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "4.24",
+            "diesel_low_sulfur": "",
+            "premium": "4.53",
+            "regular": "4.24"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "4.27",
+            "diesel_low_sulfur": "",
+            "premium": "4.56",
+            "regular": "4.28"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2012-02-21 00:00:00",
+      "to": "2012-03-05 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "4.31",
+            "diesel_low_sulfur": "",
+            "premium": "4.61",
+            "regular": "4.36"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "4.31",
+            "diesel_low_sulfur": "",
+            "premium": "4.62",
+            "regular": "4.37"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "4.35",
+            "diesel_low_sulfur": "",
+            "premium": "4.65",
+            "regular": "4.41"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2012-03-06 00:00:00",
+      "to": "2012-03-19 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "4.42",
+            "diesel_low_sulfur": "",
+            "premium": "4.74",
+            "regular": "4.51"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "4.43",
+            "diesel_low_sulfur": "",
+            "premium": "4.74",
+            "regular": "4.52"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "4.46",
+            "diesel_low_sulfur": "",
+            "premium": "4.78",
+            "regular": "4.56"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2012-03-20 00:00:00",
+      "to": "2012-04-02 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "4.45",
+            "diesel_low_sulfur": "",
+            "premium": "4.80",
+            "regular": "4.62"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "4.46",
+            "diesel_low_sulfur": "",
+            "premium": "4.81",
+            "regular": "4.63"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "4.50",
+            "diesel_low_sulfur": "",
+            "premium": "4.85",
+            "regular": "4.66"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2012-04-03 00:00:00",
+      "to": "2012-04-16 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "4.44",
+            "diesel_low_sulfur": "",
+            "premium": "4.88",
+            "regular": "4.69"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "4.45",
+            "diesel_low_sulfur": "",
+            "premium": "4.89",
+            "regular": "4.70"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "4.49",
+            "diesel_low_sulfur": "",
+            "premium": "4.92",
+            "regular": "4.73"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2012-04-17 00:00:00",
+      "to": "2012-04-30 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "4.41",
+            "diesel_low_sulfur": "",
+            "premium": "4.96",
+            "regular": "4.72"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "4.42",
+            "diesel_low_sulfur": "",
+            "premium": "4.97",
+            "regular": "4.72"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "4.45",
+            "diesel_low_sulfur": "",
+            "premium": "5.00",
+            "regular": "4.76"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2012-05-01 00:00:00",
+      "to": "2012-05-14 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "4.38",
+            "diesel_low_sulfur": "",
+            "premium": "4.85",
+            "regular": "4.58"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "4.39",
+            "diesel_low_sulfur": "",
+            "premium": "4.86",
+            "regular": "4.59"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "4.42",
+            "diesel_low_sulfur": "",
+            "premium": "4.89",
+            "regular": "4.63"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2012-05-15 00:00:00",
+      "to": "2012-05-28 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "4.32",
+            "diesel_low_sulfur": "",
+            "premium": "4.65",
+            "regular": "4.38"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "4.33",
+            "diesel_low_sulfur": "",
+            "premium": "4.66",
+            "regular": "4.39"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "4.36",
+            "diesel_low_sulfur": "",
+            "premium": "4.70",
+            "regular": "4.43"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2012-05-29 00:00:00",
+      "to": "2012-06-11 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "4.16",
+            "diesel_low_sulfur": "",
+            "premium": "4.51",
+            "regular": "4.22"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "4.17",
+            "diesel_low_sulfur": "",
+            "premium": "4.52",
+            "regular": "4.23"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "4.20",
+            "diesel_low_sulfur": "",
+            "premium": "4.56",
+            "regular": "4.26"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2012-06-12 00:00:00",
+      "to": "2012-06-25 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "3.95",
+            "diesel_low_sulfur": "",
+            "premium": "4.43",
+            "regular": "4.09"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "3.96",
+            "diesel_low_sulfur": "",
+            "premium": "4.44",
+            "regular": "4.10"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "4.00",
+            "diesel_low_sulfur": "",
+            "premium": "4.47",
+            "regular": "4.13"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2012-06-26 00:00:00",
+      "to": "2012-07-09 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "3.81",
+            "diesel_low_sulfur": "",
+            "premium": "4.34",
+            "regular": "3.95"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "3.82",
+            "diesel_low_sulfur": "",
+            "premium": "4.35",
+            "regular": "3.96"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "3.85",
+            "diesel_low_sulfur": "",
+            "premium": "4.38",
+            "regular": "4.00"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2012-07-10 00:00:00",
+      "to": "2012-07-23 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "3.78",
+            "diesel_low_sulfur": "",
+            "premium": "4.22",
+            "regular": "3.88"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "3.79",
+            "diesel_low_sulfur": "",
+            "premium": "4.23",
+            "regular": "3.89"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "3.82",
+            "diesel_low_sulfur": "",
+            "premium": "4.27",
+            "regular": "3.92"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2012-07-24 00:00:00",
+      "to": "2012-08-06 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "3.89",
+            "diesel_low_sulfur": "",
+            "premium": "4.34",
+            "regular": "3.97"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "3.90",
+            "diesel_low_sulfur": "",
+            "premium": "4.35",
+            "regular": "3.98"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "3.93",
+            "diesel_low_sulfur": "",
+            "premium": "4.38",
+            "regular": "4.01"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2012-08-07 00:00:00",
+      "to": "2012-08-20 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "3.99",
+            "diesel_low_sulfur": "",
+            "premium": "4.48",
+            "regular": "4.10"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "4.00",
+            "diesel_low_sulfur": "",
+            "premium": "4.48",
+            "regular": "4.11"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "4.03",
+            "diesel_low_sulfur": "",
+            "premium": "4.52",
+            "regular": "4.14"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2012-08-21 00:00:00",
+      "to": "2012-09-03 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "4.11",
+            "diesel_low_sulfur": "",
+            "premium": "4.58",
+            "regular": "4.25"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "4.12",
+            "diesel_low_sulfur": "",
+            "premium": "4.58",
+            "regular": "4.26"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "4.15",
+            "diesel_low_sulfur": "",
+            "premium": "4.62",
+            "regular": "4.29"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2012-09-04 00:00:00",
+      "to": "2012-09-17 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "4.26",
+            "diesel_low_sulfur": "",
+            "premium": "4.73",
+            "regular": "4.43"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "4.27",
+            "diesel_low_sulfur": "",
+            "premium": "4.74",
+            "regular": "4.44"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "4.31",
+            "diesel_low_sulfur": "",
+            "premium": "4.77",
+            "regular": "4.47"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2012-09-18 00:00:00",
+      "to": "2012-10-01 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "4.36",
+            "diesel_low_sulfur": "",
+            "premium": "4.90",
+            "regular": "4.55"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "4.37",
+            "diesel_low_sulfur": "",
+            "premium": "4.91",
+            "regular": "4.56"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "4.40",
+            "diesel_low_sulfur": "",
+            "premium": "4.94",
+            "regular": "4.59"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2012-10-02 00:00:00",
+      "to": "2012-10-15 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "4.35",
+            "diesel_low_sulfur": "",
+            "premium": "4.87",
+            "regular": "4.48"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "4.36",
+            "diesel_low_sulfur": "",
+            "premium": "4.88",
+            "regular": "4.49"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "4.39",
+            "diesel_low_sulfur": "",
+            "premium": "4.91",
+            "regular": "4.52"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2012-10-16 00:00:00",
+      "to": "2012-10-29 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "4.34",
+            "diesel_low_sulfur": "",
+            "premium": "4.76",
+            "regular": "4.43"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "4.35",
+            "diesel_low_sulfur": "",
+            "premium": "4.77",
+            "regular": "4.44"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "4.38",
+            "diesel_low_sulfur": "",
+            "premium": "4.80",
+            "regular": "4.48"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2012-10-30 00:00:00",
+      "to": "2012-11-12 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "4.33",
+            "diesel_low_sulfur": "",
+            "premium": "4.54",
+            "regular": "4.27"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "4.34",
+            "diesel_low_sulfur": "",
+            "premium": "4.55",
+            "regular": "4.28"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "4.37",
+            "diesel_low_sulfur": "",
+            "premium": "4.58",
+            "regular": "4.32"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2012-11-13 00:00:00",
+      "to": "2012-11-26 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "4.20",
+            "diesel_low_sulfur": "",
+            "premium": "4.18",
+            "regular": "3.99"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "4.21",
+            "diesel_low_sulfur": "",
+            "premium": "4.19",
+            "regular": "3.99"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "4.24",
+            "diesel_low_sulfur": "",
+            "premium": "4.23",
+            "regular": "4.03"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2012-11-27 00:00:00",
+      "to": "2012-12-10 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "4.13",
+            "diesel_low_sulfur": "",
+            "premium": "4.03",
+            "regular": "3.92"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "4.14",
+            "diesel_low_sulfur": "",
+            "premium": "4.04",
+            "regular": "3.93"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "4.17",
+            "diesel_low_sulfur": "",
+            "premium": "4.07",
+            "regular": "3.96"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2012-12-11 00:00:00",
+      "to": "2012-12-24 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "4.15",
+            "diesel_low_sulfur": "",
+            "premium": "4.08",
+            "regular": "3.92"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "4.16",
+            "diesel_low_sulfur": "",
+            "premium": "4.08",
+            "regular": "3.93"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "4.20",
+            "diesel_low_sulfur": "",
+            "premium": "4.12",
+            "regular": "3.96"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2012-12-25 00:00:00",
+      "to": "2012-12-31 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "4.13",
+            "diesel_low_sulfur": "",
+            "premium": "4.10",
+            "regular": "3.87"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "4.14",
+            "diesel_low_sulfur": "",
+            "premium": "4.11",
+            "regular": "3.88"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "4.17",
+            "diesel_low_sulfur": "",
+            "premium": "4.14",
+            "regular": "3.91"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2013-01-01 00:00:00",
+      "to": "2013-01-07 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "4.13",
+            "diesel_low_sulfur": "",
+            "premium": "4.10",
+            "regular": "3.87"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "4.14",
+            "diesel_low_sulfur": "",
+            "premium": "4.11",
+            "regular": "3.88"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "4.17",
+            "diesel_low_sulfur": "",
+            "premium": "4.14",
+            "regular": "3.91"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2013-01-08 00:00:00",
+      "to": "2013-01-21 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "4.15",
+            "diesel_low_sulfur": "",
+            "premium": "4.25",
+            "regular": "3.96"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "4.16",
+            "diesel_low_sulfur": "",
+            "premium": "4.26",
+            "regular": "3.97"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "4.19",
+            "diesel_low_sulfur": "",
+            "premium": "4.29",
+            "regular": "4.00"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2013-01-22 00:00:00",
+      "to": "2013-02-04 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "4.20",
+            "diesel_low_sulfur": "",
+            "premium": "4.42",
+            "regular": "4.09"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "4.21",
+            "diesel_low_sulfur": "",
+            "premium": "4.43",
+            "regular": "4.10"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "4.25",
+            "diesel_low_sulfur": "",
+            "premium": "4.47",
+            "regular": "4.13"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2013-02-05 00:00:00",
+      "to": "2013-02-18 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "4.24",
+            "diesel_low_sulfur": "",
+            "premium": "4.48",
+            "regular": "4.13"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "4.25",
+            "diesel_low_sulfur": "",
+            "premium": "4.49",
+            "regular": "4.14"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "4.28",
+            "diesel_low_sulfur": "",
+            "premium": "4.53",
+            "regular": "4.18"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2013-02-19 00:00:00",
+      "to": "2013-03-04 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "4.36",
+            "diesel_low_sulfur": "",
+            "premium": "4.67",
+            "regular": "4.29"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "4.37",
+            "diesel_low_sulfur": "",
+            "premium": "4.68",
+            "regular": "4.29"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "4.41",
+            "diesel_low_sulfur": "",
+            "premium": "4.71",
+            "regular": "4.33"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2013-03-05 00:00:00",
+      "to": "2013-03-18 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "4.37",
+            "diesel_low_sulfur": "",
+            "premium": "4.86",
+            "regular": "4.44"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "4.38",
+            "diesel_low_sulfur": "",
+            "premium": "4.86",
+            "regular": "4.45"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "4.41",
+            "diesel_low_sulfur": "",
+            "premium": "4.90",
+            "regular": "4.48"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2013-03-19 00:00:00",
+      "to": "2013-04-01 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "4.22",
+            "diesel_low_sulfur": "",
+            "premium": "4.86",
+            "regular": "4.45"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "4.23",
+            "diesel_low_sulfur": "",
+            "premium": "4.87",
+            "regular": "4.46"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "4.26",
+            "diesel_low_sulfur": "",
+            "premium": "4.90",
+            "regular": "4.49"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2013-04-02 00:00:00",
+      "to": "2013-04-15 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "4.11",
+            "diesel_low_sulfur": "",
+            "premium": "4.72",
+            "regular": "4.37"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "4.12",
+            "diesel_low_sulfur": "",
+            "premium": "4.73",
+            "regular": "4.37"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "4.16",
+            "diesel_low_sulfur": "",
+            "premium": "4.76",
+            "regular": "4.41"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2013-04-16 00:00:00",
+      "to": "2013-04-29 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "4.05",
+            "diesel_low_sulfur": "",
+            "premium": "4.55",
+            "regular": "4.21"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "4.06",
+            "diesel_low_sulfur": "",
+            "premium": "4.56",
+            "regular": "4.22"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "4.10",
+            "diesel_low_sulfur": "",
+            "premium": "4.59",
+            "regular": "4.25"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2013-04-30 00:00:00",
+      "to": "2013-05-13 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "3.93",
+            "diesel_low_sulfur": "",
+            "premium": "4.42",
+            "regular": "4.11"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "3.94",
+            "diesel_low_sulfur": "",
+            "premium": "4.43",
+            "regular": "4.12"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "3.97",
+            "diesel_low_sulfur": "",
+            "premium": "4.46",
+            "regular": "4.15"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2013-05-14 00:00:00",
+      "to": "2013-05-27 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "3.86",
+            "diesel_low_sulfur": "",
+            "premium": "4.35",
+            "regular": "4.12"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "3.87",
+            "diesel_low_sulfur": "",
+            "premium": "4.36",
+            "regular": "4.13"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "3.90",
+            "diesel_low_sulfur": "",
+            "premium": "4.39",
+            "regular": "4.16"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2013-05-28 00:00:00",
+      "to": "2013-06-10 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "3.91",
+            "diesel_low_sulfur": "",
+            "premium": "4.44",
+            "regular": "4.14"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "3.92",
+            "diesel_low_sulfur": "",
+            "premium": "4.45",
+            "regular": "4.15"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "3.95",
+            "diesel_low_sulfur": "",
+            "premium": "4.49",
+            "regular": "4.18"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2013-06-11 00:00:00",
+      "to": "2013-06-24 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "3.91",
+            "diesel_low_sulfur": "",
+            "premium": "4.49",
+            "regular": "4.13"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "3.91",
+            "diesel_low_sulfur": "",
+            "premium": "4.50",
+            "regular": "4.14"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "3.95",
+            "diesel_low_sulfur": "",
+            "premium": "4.53",
+            "regular": "4.17"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2013-06-25 00:00:00",
+      "to": "2013-07-08 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "3.94",
+            "diesel_low_sulfur": "",
+            "premium": "4.46",
+            "regular": "4.12"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "3.95",
+            "diesel_low_sulfur": "",
+            "premium": "4.47",
+            "regular": "4.13"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "3.99",
+            "diesel_low_sulfur": "",
+            "premium": "4.51",
+            "regular": "4.16"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2013-07-09 00:00:00",
+      "to": "2013-07-22 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "3.97",
+            "diesel_low_sulfur": "",
+            "premium": "4.37",
+            "regular": "4.06"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "3.98",
+            "diesel_low_sulfur": "",
+            "premium": "4.38",
+            "regular": "4.07"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "4.01",
+            "diesel_low_sulfur": "",
+            "premium": "4.42",
+            "regular": "4.11"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2013-07-23 00:00:00",
+      "to": "2013-08-05 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "4.03",
+            "diesel_low_sulfur": "",
+            "premium": "4.42",
+            "regular": "4.17"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "4.04",
+            "diesel_low_sulfur": "",
+            "premium": "4.43",
+            "regular": "4.18"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "4.07",
+            "diesel_low_sulfur": "",
+            "premium": "4.47",
+            "regular": "4.21"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2013-08-06 00:00:00",
+      "to": "2013-08-19 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "4.10",
+            "diesel_low_sulfur": "",
+            "premium": "4.56",
+            "regular": "4.34"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "4.11",
+            "diesel_low_sulfur": "",
+            "premium": "4.57",
+            "regular": "4.35"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "4.14",
+            "diesel_low_sulfur": "",
+            "premium": "4.60",
+            "regular": "4.38"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2013-08-20 00:00:00",
+      "to": "2013-09-02 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "4.10",
+            "diesel_low_sulfur": "",
+            "premium": "4.45",
+            "regular": "4.30"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "4.11",
+            "diesel_low_sulfur": "",
+            "premium": "4.46",
+            "regular": "4.31"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "4.15",
+            "diesel_low_sulfur": "",
+            "premium": "4.49",
+            "regular": "4.34"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2013-09-03 00:00:00",
+      "to": "2013-09-16 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "4.17",
+            "diesel_low_sulfur": "",
+            "premium": "4.45",
+            "regular": "4.30"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "4.18",
+            "diesel_low_sulfur": "",
+            "premium": "4.46",
+            "regular": "4.31"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "4.22",
+            "diesel_low_sulfur": "",
+            "premium": "4.49",
+            "regular": "4.34"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2013-09-17 00:00:00",
+      "to": "2013-09-30 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "4.23",
+            "diesel_low_sulfur": "",
+            "premium": "4.44",
+            "regular": "4.21"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "4.23",
+            "diesel_low_sulfur": "",
+            "premium": "4.45",
+            "regular": "4.22"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "4.27",
+            "diesel_low_sulfur": "",
+            "premium": "4.48",
+            "regular": "4.26"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2013-10-01 00:00:00",
+      "to": "2013-10-14 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "4.15",
+            "diesel_low_sulfur": "",
+            "premium": "4.27",
+            "regular": "4.02"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "4.16",
+            "diesel_low_sulfur": "",
+            "premium": "4.28",
+            "regular": "4.03"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "4.20",
+            "diesel_low_sulfur": "",
+            "premium": "4.31",
+            "regular": "4.06"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2013-10-15 00:00:00",
+      "to": "2013-10-28 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "4.11",
+            "diesel_low_sulfur": "",
+            "premium": "4.18",
+            "regular": "3.95"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "4.12",
+            "diesel_low_sulfur": "",
+            "premium": "4.19",
+            "regular": "3.96"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "4.15",
+            "diesel_low_sulfur": "",
+            "premium": "4.22",
+            "regular": "4.00"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2013-10-29 00:00:00",
+      "to": "2013-11-11 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "4.11",
+            "diesel_low_sulfur": "",
+            "premium": "4.14",
+            "regular": "3.93"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "4.12",
+            "diesel_low_sulfur": "",
+            "premium": "4.15",
+            "regular": "3.93"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "4.16",
+            "diesel_low_sulfur": "",
+            "premium": "4.18",
+            "regular": "3.97"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2013-11-12 00:00:00",
+      "to": "2013-11-25 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "4.06",
+            "diesel_low_sulfur": "",
+            "premium": "4.03",
+            "regular": "3.82"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "4.06",
+            "diesel_low_sulfur": "",
+            "premium": "4.04",
+            "regular": "3.83"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "4.10",
+            "diesel_low_sulfur": "",
+            "premium": "4.08",
+            "regular": "3.87"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2013-11-26 00:00:00",
+      "to": "2013-12-09 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "4.02",
+            "diesel_low_sulfur": "",
+            "premium": "4.06",
+            "regular": "3.83"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "4.03",
+            "diesel_low_sulfur": "",
+            "premium": "4.06",
+            "regular": "3.84"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "4.06",
+            "diesel_low_sulfur": "",
+            "premium": "4.10",
+            "regular": "3.87"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2013-12-10 00:00:00",
+      "to": "2013-12-23 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "4.09",
+            "diesel_low_sulfur": "",
+            "premium": "4.20",
+            "regular": "3.93"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "4.10",
+            "diesel_low_sulfur": "",
+            "premium": "4.21",
+            "regular": "3.93"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "4.14",
+            "diesel_low_sulfur": "",
+            "premium": "4.25",
+            "regular": "3.97"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2013-12-24 00:00:00",
+      "to": "2013-12-31 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "4.13",
+            "diesel_low_sulfur": "",
+            "premium": "4.22",
+            "regular": "3.92"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "4.14",
+            "diesel_low_sulfur": "",
+            "premium": "4.22",
+            "regular": "3.92"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "4.17",
+            "diesel_low_sulfur": "",
+            "premium": "4.26",
+            "regular": "3.96"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2014-01-01 00:00:00",
+      "to": "2014-01-06 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "4.13",
+            "diesel_low_sulfur": "",
+            "premium": "4.22",
+            "regular": "3.92"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "4.14",
+            "diesel_low_sulfur": "",
+            "premium": "4.22",
+            "regular": "3.92"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "4.17",
+            "diesel_low_sulfur": "",
+            "premium": "4.26",
+            "regular": "3.96"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2014-01-07 00:00:00",
+      "to": "2014-01-20 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "4.12",
+            "diesel_low_sulfur": "",
+            "premium": "4.27",
+            "regular": "3.96"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "4.13",
+            "diesel_low_sulfur": "",
+            "premium": "4.28",
+            "regular": "3.97"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "4.17",
+            "diesel_low_sulfur": "",
+            "premium": "4.31",
+            "regular": "4.00"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2014-01-21 00:00:00",
+      "to": "2014-02-03 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "4.10",
+            "diesel_low_sulfur": "",
+            "premium": "4.29",
+            "regular": "3.99"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "4.10",
+            "diesel_low_sulfur": "",
+            "premium": "4.30",
+            "regular": "4.00"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "4.14",
+            "diesel_low_sulfur": "",
+            "premium": "4.33",
+            "regular": "4.04"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2014-02-04 00:00:00",
+      "to": "2014-02-17 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "4.06",
+            "diesel_low_sulfur": "",
+            "premium": "4.26",
+            "regular": "3.97"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "4.07",
+            "diesel_low_sulfur": "",
+            "premium": "4.27",
+            "regular": "3.98"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "4.11",
+            "diesel_low_sulfur": "",
+            "premium": "4.30",
+            "regular": "4.01"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2014-02-18 00:00:00",
+      "to": "2014-03-03 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "4.05",
+            "diesel_low_sulfur": "",
+            "premium": "4.38",
+            "regular": "4.02"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "4.06",
+            "diesel_low_sulfur": "",
+            "premium": "4.39",
+            "regular": "4.03"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "4.09",
+            "diesel_low_sulfur": "",
+            "premium": "4.42",
+            "regular": "4.06"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2014-03-04 00:00:00",
+      "to": "2014-03-17 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "4.07",
+            "diesel_low_sulfur": "",
+            "premium": "4.47",
+            "regular": "4.09"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "4.08",
+            "diesel_low_sulfur": "",
+            "premium": "4.48",
+            "regular": "4.10"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "4.11",
+            "diesel_low_sulfur": "",
+            "premium": "4.51",
+            "regular": "4.13"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2014-03-18 00:00:00",
+      "to": "2014-03-31 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "4.10",
+            "diesel_low_sulfur": "",
+            "premium": "4.52",
+            "regular": "4.15"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "4.11",
+            "diesel_low_sulfur": "",
+            "premium": "4.53",
+            "regular": "4.16"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "4.15",
+            "diesel_low_sulfur": "",
+            "premium": "4.56",
+            "regular": "4.19"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2014-04-01 00:00:00",
+      "to": "2014-04-14 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "4.04",
+            "diesel_low_sulfur": "",
+            "premium": "4.41",
+            "regular": "4.13"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "4.05",
+            "diesel_low_sulfur": "",
+            "premium": "4.42",
+            "regular": "4.14"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "4.08",
+            "diesel_low_sulfur": "",
+            "premium": "4.46",
+            "regular": "4.18"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2014-04-15 00:00:00",
+      "to": "2014-04-28 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "4.01",
+            "diesel_low_sulfur": "",
+            "premium": "4.34",
+            "regular": "4.14"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "4.02",
+            "diesel_low_sulfur": "",
+            "premium": "4.35",
+            "regular": "4.15"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "4.05",
+            "diesel_low_sulfur": "",
+            "premium": "4.38",
+            "regular": "4.19"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2014-04-29 00:00:00",
+      "to": "2014-05-12 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "4.06",
+            "diesel_low_sulfur": "",
+            "premium": "4.44",
+            "regular": "4.21"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "4.07",
+            "diesel_low_sulfur": "",
+            "premium": "4.45",
+            "regular": "4.22"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "4.11",
+            "diesel_low_sulfur": "",
+            "premium": "4.48",
+            "regular": "4.25"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2014-05-13 00:00:00",
+      "to": "2014-05-26 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "4.07",
+            "diesel_low_sulfur": "",
+            "premium": "4.43",
+            "regular": "4.19"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "4.08",
+            "diesel_low_sulfur": "",
+            "premium": "4.43",
+            "regular": "4.20"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "4.11",
+            "diesel_low_sulfur": "",
+            "premium": "4.47",
+            "regular": "4.23"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2014-05-27 00:00:00",
+      "to": "2014-06-09 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "4.04",
+            "diesel_low_sulfur": "",
+            "premium": "4.43",
+            "regular": "4.18"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "4.05",
+            "diesel_low_sulfur": "",
+            "premium": "4.44",
+            "regular": "4.19"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "4.08",
+            "diesel_low_sulfur": "",
+            "premium": "4.47",
+            "regular": "4.22"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2014-06-10 00:00:00",
+      "to": "2014-06-23 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "4.02",
+            "diesel_low_sulfur": "",
+            "premium": "4.51",
+            "regular": "4.21"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "4.03",
+            "diesel_low_sulfur": "",
+            "premium": "4.52",
+            "regular": "4.22"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "4.06",
+            "diesel_low_sulfur": "",
+            "premium": "4.55",
+            "regular": "4.25"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2014-06-24 00:00:00",
+      "to": "2014-07-07 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "4.03",
+            "diesel_low_sulfur": "",
+            "premium": "4.58",
+            "regular": "4.28"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "4.04",
+            "diesel_low_sulfur": "",
+            "premium": "4.59",
+            "regular": "4.28"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "4.07",
+            "diesel_low_sulfur": "",
+            "premium": "4.62",
+            "regular": "4.32"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2014-07-08 00:00:00",
+      "to": "2014-07-21 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "4.07",
+            "diesel_low_sulfur": "",
+            "premium": "4.68",
+            "regular": "4.32"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "4.08",
+            "diesel_low_sulfur": "",
+            "premium": "4.69",
+            "regular": "4.33"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "4.11",
+            "diesel_low_sulfur": "",
+            "premium": "4.72",
+            "regular": "4.36"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2014-07-22 00:00:00",
+      "to": "2014-08-04 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "4.00",
+            "diesel_low_sulfur": "",
+            "premium": "4.55",
+            "regular": "4.23"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "4.01",
+            "diesel_low_sulfur": "",
+            "premium": "4.56",
+            "regular": "4.23"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "4.05",
+            "diesel_low_sulfur": "",
+            "premium": "4.60",
+            "regular": "4.27"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2014-08-05 00:00:00",
+      "to": "2014-08-18 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "3.95",
+            "diesel_low_sulfur": "",
+            "premium": "4.39",
+            "regular": "4.11"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "3.96",
+            "diesel_low_sulfur": "",
+            "premium": "4.40",
+            "regular": "4.12"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "4.00",
+            "diesel_low_sulfur": "",
+            "premium": "4.43",
+            "regular": "4.15"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2014-08-19 00:00:00",
+      "to": "2014-09-01 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "3.96",
+            "diesel_low_sulfur": "",
+            "premium": "4.27",
+            "regular": "4.04"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "3.97",
+            "diesel_low_sulfur": "",
+            "premium": "4.28",
+            "regular": "4.05"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "4.00",
+            "diesel_low_sulfur": "",
+            "premium": "4.31",
+            "regular": "4.08"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2014-09-02 00:00:00",
+      "to": "2014-09-15 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "3.93",
+            "diesel_low_sulfur": "",
+            "premium": "4.22",
+            "regular": "4.04"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "3.94",
+            "diesel_low_sulfur": "",
+            "premium": "4.23",
+            "regular": "4.04"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "3.97",
+            "diesel_low_sulfur": "",
+            "premium": "4.27",
+            "regular": "4.08"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2014-09-16 00:00:00",
+      "to": "2014-09-29 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "3.87",
+            "diesel_low_sulfur": "",
+            "premium": "4.30",
+            "regular": "4.02"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "3.88",
+            "diesel_low_sulfur": "",
+            "premium": "4.31",
+            "regular": "4.03"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "3.91",
+            "diesel_low_sulfur": "",
+            "premium": "4.35",
+            "regular": "4.07"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2014-09-30 00:00:00",
+      "to": "2014-10-13 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "3.79",
+            "diesel_low_sulfur": "",
+            "premium": "4.39",
+            "regular": "4.00"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "3.80",
+            "diesel_low_sulfur": "",
+            "premium": "4.39",
+            "regular": "4.01"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "3.84",
+            "diesel_low_sulfur": "",
+            "premium": "4.43",
+            "regular": "4.04"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2014-10-14 00:00:00",
+      "to": "2014-10-27 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "3.71",
+            "diesel_low_sulfur": "",
+            "premium": "4.28",
+            "regular": "3.87"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "3.72",
+            "diesel_low_sulfur": "",
+            "premium": "4.28",
+            "regular": "3.88"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "3.75",
+            "diesel_low_sulfur": "",
+            "premium": "4.32",
+            "regular": "3.92"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2014-10-28 00:00:00",
+      "to": "2014-11-10 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "3.57",
+            "diesel_low_sulfur": "",
+            "premium": "4.06",
+            "regular": "3.60"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "3.58",
+            "diesel_low_sulfur": "",
+            "premium": "4.07",
+            "regular": "3.61"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "3.61",
+            "diesel_low_sulfur": "",
+            "premium": "4.10",
+            "regular": "3.64"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2014-11-11 00:00:00",
+      "to": "2014-11-24 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "3.47",
+            "diesel_low_sulfur": "",
+            "premium": "3.86",
+            "regular": "3.43"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "3.48",
+            "diesel_low_sulfur": "",
+            "premium": "3.87",
+            "regular": "3.44"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "3.51",
+            "diesel_low_sulfur": "",
+            "premium": "3.91",
+            "regular": "3.47"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2014-11-25 00:00:00",
+      "to": "2014-12-08 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "3.37",
+            "diesel_low_sulfur": "",
+            "premium": "3.62",
+            "regular": "3.33"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "3.38",
+            "diesel_low_sulfur": "",
+            "premium": "3.62",
+            "regular": "3.34"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "3.42",
+            "diesel_low_sulfur": "",
+            "premium": "3.66",
+            "regular": "3.37"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2014-12-09 00:00:00",
+      "to": "2014-12-22 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "3.19",
+            "diesel_low_sulfur": "",
+            "premium": "3.31",
+            "regular": "3.12"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "3.20",
+            "diesel_low_sulfur": "",
+            "premium": "3.32",
+            "regular": "3.13"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "3.23",
+            "diesel_low_sulfur": "",
+            "premium": "3.36",
+            "regular": "3.16"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2014-12-23 00:00:00",
+      "to": "2014-12-31 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "2.88",
+            "diesel_low_sulfur": "",
+            "premium": "2.99",
+            "regular": "2.80"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "2.89",
+            "diesel_low_sulfur": "",
+            "premium": "3.00",
+            "regular": "2.80"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "2.92",
+            "diesel_low_sulfur": "",
+            "premium": "3.04",
+            "regular": "2.84"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2015-01-01 00:00:00",
+      "to": "2015-01-05 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "2.88",
+            "diesel_low_sulfur": "",
+            "premium": "2.99",
+            "regular": "2.80"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "2.89",
+            "diesel_low_sulfur": "",
+            "premium": "3.00",
+            "regular": "2.80"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "2.92",
+            "diesel_low_sulfur": "",
+            "premium": "3.04",
+            "regular": "2.84"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2015-01-06 00:00:00",
+      "to": "2015-01-19 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "2.70",
+            "diesel_low_sulfur": "",
+            "premium": "2.81",
+            "regular": "2.59"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "2.71",
+            "diesel_low_sulfur": "",
+            "premium": "2.82",
+            "regular": "2.60"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "2.74",
+            "diesel_low_sulfur": "",
+            "premium": "2.85",
+            "regular": "2.63"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2015-01-20 00:00:00",
+      "to": "2015-02-02 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "2.66",
+            "diesel_low_sulfur": "",
+            "premium": "2.79",
+            "regular": "2.53"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "2.66",
+            "diesel_low_sulfur": "",
+            "premium": "2.80",
+            "regular": "2.54"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "2.70",
+            "diesel_low_sulfur": "",
+            "premium": "2.83",
+            "regular": "2.57"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2015-02-03 00:00:00",
+      "to": "2015-02-16 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "2.61",
+            "diesel_low_sulfur": "",
+            "premium": "2.78",
+            "regular": "2.56"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "2.62",
+            "diesel_low_sulfur": "",
+            "premium": "2.79",
+            "regular": "2.57"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "2.66",
+            "diesel_low_sulfur": "",
+            "premium": "2.83",
+            "regular": "2.60"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2015-02-17 00:00:00",
+      "to": "2015-03-02 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "2.70",
+            "diesel_low_sulfur": "",
+            "premium": "2.90",
+            "regular": "2.73"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "2.71",
+            "diesel_low_sulfur": "",
+            "premium": "2.91",
+            "regular": "2.74"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "2.75",
+            "diesel_low_sulfur": "",
+            "premium": "2.94",
+            "regular": "2.77"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2015-03-03 00:00:00",
+      "to": "2015-03-16 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "2.85",
+            "diesel_low_sulfur": "",
+            "premium": "3.11",
+            "regular": "2.92"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "2.86",
+            "diesel_low_sulfur": "",
+            "premium": "3.12",
+            "regular": "2.93"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "2.89",
+            "diesel_low_sulfur": "",
+            "premium": "3.15",
+            "regular": "2.96"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2015-03-17 00:00:00",
+      "to": "2015-03-30 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "2.86",
+            "diesel_low_sulfur": "",
+            "premium": "3.22",
+            "regular": "3.01"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "2.87",
+            "diesel_low_sulfur": "",
+            "premium": "3.23",
+            "regular": "3.02"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "2.90",
+            "diesel_low_sulfur": "",
+            "premium": "3.26",
+            "regular": "3.05"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2015-03-31 00:00:00",
+      "to": "2015-04-13 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "2.73",
+            "diesel_low_sulfur": "",
+            "premium": "3.20",
+            "regular": "3.00"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "2.74",
+            "diesel_low_sulfur": "",
+            "premium": "3.20",
+            "regular": "3.01"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "2.77",
+            "diesel_low_sulfur": "",
+            "premium": "3.24",
+            "regular": "3.04"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2015-04-14 00:00:00",
+      "to": "2015-04-27 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "2.66",
+            "diesel_low_sulfur": "",
+            "premium": "3.16",
+            "regular": "2.98"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "2.67",
+            "diesel_low_sulfur": "",
+            "premium": "3.16",
+            "regular": "2.99"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "2.70",
+            "diesel_low_sulfur": "",
+            "premium": "3.20",
+            "regular": "3.02"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2015-04-28 00:00:00",
+      "to": "2015-05-11 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "2.77",
+            "diesel_low_sulfur": "",
+            "premium": "3.25",
+            "regular": "3.04"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "2.78",
+            "diesel_low_sulfur": "",
+            "premium": "3.26",
+            "regular": "3.05"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "2.82",
+            "diesel_low_sulfur": "",
+            "premium": "3.29",
+            "regular": "3.08"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2015-05-12 00:00:00",
+      "to": "2015-05-25 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "2.90",
+            "diesel_low_sulfur": "",
+            "premium": "3.46",
+            "regular": "3.18"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "2.91",
+            "diesel_low_sulfur": "",
+            "premium": "3.47",
+            "regular": "3.19"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "2.94",
+            "diesel_low_sulfur": "",
+            "premium": "3.51",
+            "regular": "3.23"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2015-05-26 00:00:00",
+      "to": "2015-06-08 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "2.96",
+            "diesel_low_sulfur": "",
+            "premium": "3.58",
+            "regular": "3.27"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "2.97",
+            "diesel_low_sulfur": "",
+            "premium": "3.59",
+            "regular": "3.28"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "3.01",
+            "diesel_low_sulfur": "",
+            "premium": "3.63",
+            "regular": "3.31"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2015-06-09 00:00:00",
+      "to": "2015-06-22 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "2.92",
+            "diesel_low_sulfur": "",
+            "premium": "3.68",
+            "regular": "3.29"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "2.93",
+            "diesel_low_sulfur": "",
+            "premium": "3.69",
+            "regular": "3.30"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "2.97",
+            "diesel_low_sulfur": "",
+            "premium": "3.73",
+            "regular": "3.33"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2015-06-23 00:00:00",
+      "to": "2015-07-06 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "2.84",
+            "diesel_low_sulfur": "",
+            "premium": "3.81",
+            "regular": "3.33"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "2.85",
+            "diesel_low_sulfur": "",
+            "premium": "3.82",
+            "regular": "3.34"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "2.88",
+            "diesel_low_sulfur": "",
+            "premium": "3.85",
+            "regular": "3.37"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2015-07-07 00:00:00",
+      "to": "2015-07-20 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "2.81",
+            "diesel_low_sulfur": "",
+            "premium": "3.82",
+            "regular": "3.34"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "2.82",
+            "diesel_low_sulfur": "",
+            "premium": "3.83",
+            "regular": "3.35"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "2.85",
+            "diesel_low_sulfur": "",
+            "premium": "3.86",
+            "regular": "3.39"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2015-07-21 00:00:00",
+      "to": "2015-08-03 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "2.72",
+            "diesel_low_sulfur": "",
+            "premium": "3.79",
+            "regular": "3.30"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "2.73",
+            "diesel_low_sulfur": "",
+            "premium": "3.80",
+            "regular": "3.31"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "2.76",
+            "diesel_low_sulfur": "",
+            "premium": "3.83",
+            "regular": "3.34"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2015-08-04 00:00:00",
+      "to": "2015-08-17 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "2.62",
+            "diesel_low_sulfur": "",
+            "premium": "3.64",
+            "regular": "3.21"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "2.63",
+            "diesel_low_sulfur": "",
+            "premium": "3.65",
+            "regular": "3.22"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "2.66",
+            "diesel_low_sulfur": "",
+            "premium": "3.69",
+            "regular": "3.25"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2015-08-18 00:00:00",
+      "to": "2015-08-31 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "2.53",
+            "diesel_low_sulfur": "",
+            "premium": "3.43",
+            "regular": "3.07"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "2.54",
+            "diesel_low_sulfur": "",
+            "premium": "3.44",
+            "regular": "3.08"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "2.57",
+            "diesel_low_sulfur": "",
+            "premium": "3.47",
+            "regular": "3.11"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2015-09-01 00:00:00",
+      "to": "2015-09-14 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "2.44",
+            "diesel_low_sulfur": "",
+            "premium": "3.15",
+            "regular": "2.90"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "2.45",
+            "diesel_low_sulfur": "",
+            "premium": "3.16",
+            "regular": "2.91"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "2.48",
+            "diesel_low_sulfur": "",
+            "premium": "3.19",
+            "regular": "2.95"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2015-09-15 00:00:00",
+      "to": "2015-09-28 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "2.45",
+            "diesel_low_sulfur": "",
+            "premium": "2.93",
+            "regular": "2.74"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "2.46",
+            "diesel_low_sulfur": "",
+            "premium": "2.94",
+            "regular": "2.75"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "2.49",
+            "diesel_low_sulfur": "",
+            "premium": "2.98",
+            "regular": "2.78"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2015-09-29 00:00:00",
+      "to": "2015-10-12 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "2.46",
+            "diesel_low_sulfur": "",
+            "premium": "2.87",
+            "regular": "2.67"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "2.47",
+            "diesel_low_sulfur": "",
+            "premium": "2.88",
+            "regular": "2.68"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "2.51",
+            "diesel_low_sulfur": "",
+            "premium": "2.92",
+            "regular": "2.71"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2015-10-13 00:00:00",
+      "to": "2015-10-26 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "2.47",
+            "diesel_low_sulfur": "",
+            "premium": "2.84",
+            "regular": "2.65"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "2.48",
+            "diesel_low_sulfur": "",
+            "premium": "2.85",
+            "regular": "2.66"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "2.51",
+            "diesel_low_sulfur": "",
+            "premium": "2.89",
+            "regular": "2.70"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2015-10-27 00:00:00",
+      "to": "2015-11-09 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "2.46",
+            "diesel_low_sulfur": "",
+            "premium": "2.80",
+            "regular": "2.60"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "2.47",
+            "diesel_low_sulfur": "",
+            "premium": "2.81",
+            "regular": "2.61"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "2.50",
+            "diesel_low_sulfur": "",
+            "premium": "2.84",
+            "regular": "2.64"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2015-11-10 00:00:00",
+      "to": "2015-11-23 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "2.43",
+            "diesel_low_sulfur": "",
+            "premium": "2.79",
+            "regular": "2.57"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "2.44",
+            "diesel_low_sulfur": "",
+            "premium": "2.79",
+            "regular": "2.58"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "2.47",
+            "diesel_low_sulfur": "",
+            "premium": "2.83",
+            "regular": "2.62"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2015-11-24 00:00:00",
+      "to": "2015-12-07 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "2.39",
+            "diesel_low_sulfur": "",
+            "premium": "2.74",
+            "regular": "2.54"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "2.40",
+            "diesel_low_sulfur": "",
+            "premium": "2.75",
+            "regular": "2.55"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "2.43",
+            "diesel_low_sulfur": "",
+            "premium": "2.78",
+            "regular": "2.58"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2015-12-08 00:00:00",
+      "to": "2015-12-21 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "2.26",
+            "diesel_low_sulfur": "",
+            "premium": "2.66",
+            "regular": "2.48"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "2.27",
+            "diesel_low_sulfur": "",
+            "premium": "2.66",
+            "regular": "2.49"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "2.30",
+            "diesel_low_sulfur": "",
+            "premium": "2.70",
+            "regular": "2.52"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2015-12-22 00:00:00",
+      "to": "2015-12-31 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "2.09",
+            "diesel_low_sulfur": "",
+            "premium": "2.62",
+            "regular": "2.47"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "2.09",
+            "diesel_low_sulfur": "",
+            "premium": "2.63",
+            "regular": "2.48"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "2.13",
+            "diesel_low_sulfur": "",
+            "premium": "2.66",
+            "regular": "2.52"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2016-01-01 00:00:00",
+      "to": "2016-01-04 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "2.09",
+            "diesel_low_sulfur": "",
+            "premium": "2.62",
+            "regular": "2.47"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "2.09",
+            "diesel_low_sulfur": "",
+            "premium": "2.63",
+            "regular": "2.48"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "2.13",
+            "diesel_low_sulfur": "",
+            "premium": "2.66",
+            "regular": "2.52"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2016-01-05 00:00:00",
+      "to": "2016-01-18 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "2.01",
+            "diesel_low_sulfur": "",
+            "premium": "2.62",
+            "regular": "2.46"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "2.02",
+            "diesel_low_sulfur": "",
+            "premium": "2.63",
+            "regular": "2.47"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "2.06",
+            "diesel_low_sulfur": "",
+            "premium": "2.67",
+            "regular": "2.51"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2016-01-19 00:00:00",
+      "to": "2016-02-01 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "1.98",
+            "diesel_low_sulfur": "",
+            "premium": "2.56",
+            "regular": "2.37"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "1.99",
+            "diesel_low_sulfur": "",
+            "premium": "2.57",
+            "regular": "2.38"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "2.02",
+            "diesel_low_sulfur": "",
+            "premium": "2.61",
+            "regular": "2.42"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2016-02-02 00:00:00",
+      "to": "2016-02-15 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "1.90",
+            "diesel_low_sulfur": "",
+            "premium": "2.49",
+            "regular": "2.29"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "1.91",
+            "diesel_low_sulfur": "",
+            "premium": "2.50",
+            "regular": "2.30"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "1.94",
+            "diesel_low_sulfur": "",
+            "premium": "2.53",
+            "regular": "2.33"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2016-02-16 00:00:00",
+      "to": "2016-02-29 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "1.88",
+            "diesel_low_sulfur": "",
+            "premium": "2.43",
+            "regular": "2.22"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "1.89",
+            "diesel_low_sulfur": "",
+            "premium": "2.44",
+            "regular": "2.23"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "1.93",
+            "diesel_low_sulfur": "",
+            "premium": "2.47",
+            "regular": "2.26"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2016-03-01 00:00:00",
+      "to": "2016-03-14 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "1.90",
+            "diesel_low_sulfur": "",
+            "premium": "2.40",
+            "regular": "2.20"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "1.91",
+            "diesel_low_sulfur": "",
+            "premium": "2.41",
+            "regular": "2.21"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "1.94",
+            "diesel_low_sulfur": "",
+            "premium": "2.45",
+            "regular": "2.25"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2016-03-15 00:00:00",
+      "to": "2016-03-28 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "1.94",
+            "diesel_low_sulfur": "",
+            "premium": "2.48",
+            "regular": "2.31"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "1.95",
+            "diesel_low_sulfur": "",
+            "premium": "2.49",
+            "regular": "2.32"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "1.98",
+            "diesel_low_sulfur": "",
+            "premium": "2.52",
+            "regular": "2.35"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2016-03-29 00:00:00",
+      "to": "2016-04-11 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "2.01",
+            "diesel_low_sulfur": "",
+            "premium": "2.66",
+            "regular": "2.49"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "2.01",
+            "diesel_low_sulfur": "",
+            "premium": "2.67",
+            "regular": "2.49"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "2.05",
+            "diesel_low_sulfur": "",
+            "premium": "2.71",
+            "regular": "2.53"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2016-04-12 00:00:00",
+      "to": "2016-04-25 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "1.99",
+            "diesel_low_sulfur": "",
+            "premium": "2.77",
+            "regular": "2.58"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "2.00",
+            "diesel_low_sulfur": "",
+            "premium": "2.78",
+            "regular": "2.59"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "2.03",
+            "diesel_low_sulfur": "",
+            "premium": "2.81",
+            "regular": "2.63"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2016-04-26 00:00:00",
+      "to": "2016-05-09 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "2.06",
+            "diesel_low_sulfur": "",
+            "premium": "2.80",
+            "regular": "2.62"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "2.07",
+            "diesel_low_sulfur": "",
+            "premium": "2.81",
+            "regular": "2.63"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "2.10",
+            "diesel_low_sulfur": "",
+            "premium": "2.84",
+            "regular": "2.66"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2016-05-10 00:00:00",
+      "to": "2016-05-23 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "2.19",
+            "diesel_low_sulfur": "",
+            "premium": "2.91",
+            "regular": "2.71"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "2.20",
+            "diesel_low_sulfur": "",
+            "premium": "2.92",
+            "regular": "2.72"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "2.24",
+            "diesel_low_sulfur": "",
+            "premium": "2.96",
+            "regular": "2.76"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2016-05-24 00:00:00",
+      "to": "2016-06-06 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "2.27",
+            "diesel_low_sulfur": "",
+            "premium": "2.95",
+            "regular": "2.75"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "2.28",
+            "diesel_low_sulfur": "",
+            "premium": "2.96",
+            "regular": "2.76"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "2.32",
+            "diesel_low_sulfur": "",
+            "premium": "3.00",
+            "regular": "2.80"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2016-06-07 00:00:00",
+      "to": "2016-06-20 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "2.35",
+            "diesel_low_sulfur": "",
+            "premium": "3.00",
+            "regular": "2.81"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "2.36",
+            "diesel_low_sulfur": "",
+            "premium": "3.01",
+            "regular": "2.82"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "2.40",
+            "diesel_low_sulfur": "",
+            "premium": "3.04",
+            "regular": "2.87"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2016-06-21 00:00:00",
+      "to": "2016-07-04 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "2.41",
+            "diesel_low_sulfur": "",
+            "premium": "3.01",
+            "regular": "2.84"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "2.42",
+            "diesel_low_sulfur": "",
+            "premium": "3.02",
+            "regular": "2.85"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "2.46",
+            "diesel_low_sulfur": "",
+            "premium": "3.06",
+            "regular": "2.90"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2016-07-05 00:00:00",
+      "to": "2016-07-18 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "2.41",
+            "diesel_low_sulfur": "",
+            "premium": "2.97",
+            "regular": "2.80"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "2.42",
+            "diesel_low_sulfur": "",
+            "premium": "2.98",
+            "regular": "2.81"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "2.45",
+            "diesel_low_sulfur": "",
+            "premium": "3.02",
+            "regular": "2.86"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2016-07-19 00:00:00",
+      "to": "2016-08-01 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "2.34",
+            "diesel_low_sulfur": "",
+            "premium": "2.91",
+            "regular": "2.74"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "2.35",
+            "diesel_low_sulfur": "",
+            "premium": "2.92",
+            "regular": "2.75"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "2.39",
+            "diesel_low_sulfur": "",
+            "premium": "2.95",
+            "regular": "2.79"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2016-08-02 00:00:00",
+      "to": "2016-08-15 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "2.23",
+            "diesel_low_sulfur": "",
+            "premium": "2.81",
+            "regular": "2.65"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "2.24",
+            "diesel_low_sulfur": "",
+            "premium": "2.82",
+            "regular": "2.66"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "2.27",
+            "diesel_low_sulfur": "",
+            "premium": "2.86",
+            "regular": "2.70"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2016-08-16 00:00:00",
+      "to": "2016-08-29 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "2.18",
+            "diesel_low_sulfur": "",
+            "premium": "2.79",
+            "regular": "2.64"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "2.19",
+            "diesel_low_sulfur": "",
+            "premium": "2.79",
+            "regular": "2.65"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "2.22",
+            "diesel_low_sulfur": "",
+            "premium": "2.83",
+            "regular": "2.70"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2016-08-30 00:00:00",
+      "to": "2016-09-12 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "2.28",
+            "diesel_low_sulfur": "",
+            "premium": "2.88",
+            "regular": "2.74"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "2.29",
+            "diesel_low_sulfur": "",
+            "premium": "2.89",
+            "regular": "2.74"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "2.33",
+            "diesel_low_sulfur": "",
+            "premium": "2.92",
+            "regular": "2.79"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2016-09-13 00:00:00",
+      "to": "2016-09-26 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "2.36",
+            "diesel_low_sulfur": "",
+            "premium": "2.90",
+            "regular": "2.77"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "2.37",
+            "diesel_low_sulfur": "",
+            "premium": "2.91",
+            "regular": "2.77"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "2.40",
+            "diesel_low_sulfur": "",
+            "premium": "2.96",
+            "regular": "2.81"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2016-09-27 00:00:00",
+      "to": "2016-10-10 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "2.31",
+            "diesel_low_sulfur": "",
+            "premium": "2.86",
+            "regular": "2.70"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "2.32",
+            "diesel_low_sulfur": "",
+            "premium": "2.87",
+            "regular": "2.71"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "2.35",
+            "diesel_low_sulfur": "",
+            "premium": "2.92",
+            "regular": "2.74"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2016-10-11 00:00:00",
+      "to": "2016-10-24 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "2.36",
+            "diesel_low_sulfur": "",
+            "premium": "2.96",
+            "regular": "2.75"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "2.37",
+            "diesel_low_sulfur": "",
+            "premium": "2.97",
+            "regular": "2.76"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "2.40",
+            "diesel_low_sulfur": "",
+            "premium": "3.02",
+            "regular": "2.80"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2016-10-25 00:00:00",
+      "to": "2016-11-07 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "2.44",
+            "diesel_low_sulfur": "",
+            "premium": "3.02",
+            "regular": "2.81"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "2.45",
+            "diesel_low_sulfur": "",
+            "premium": "3.03",
+            "regular": "2.82"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "2.48",
+            "diesel_low_sulfur": "",
+            "premium": "3.06",
+            "regular": "2.85"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2016-11-08 00:00:00",
+      "to": "2016-11-21 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "2.43",
+            "diesel_low_sulfur": "",
+            "premium": "2.98",
+            "regular": "2.78"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "2.44",
+            "diesel_low_sulfur": "",
+            "premium": "2.99",
+            "regular": "2.78"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "2.48",
+            "diesel_low_sulfur": "",
+            "premium": "3.03",
+            "regular": "2.82"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2016-11-22 00:00:00",
+      "to": "2016-12-05 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "2.35",
+            "diesel_low_sulfur": "",
+            "premium": "2.85",
+            "regular": "2.64"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "2.36",
+            "diesel_low_sulfur": "",
+            "premium": "2.86",
+            "regular": "2.65"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "2.39",
+            "diesel_low_sulfur": "",
+            "premium": "2.91",
+            "regular": "2.68"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2016-12-06 00:00:00",
+      "to": "2016-12-19 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "2.32",
+            "diesel_low_sulfur": "",
+            "premium": "2.83",
+            "regular": "2.61"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "2.33",
+            "diesel_low_sulfur": "",
+            "premium": "2.84",
+            "regular": "2.62"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "2.36",
+            "diesel_low_sulfur": "",
+            "premium": "2.87",
+            "regular": "2.65"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2016-12-20 00:00:00",
+      "to": "2016-12-31 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "2.42",
+            "diesel_low_sulfur": "",
+            "premium": "2.99",
+            "regular": "2.77"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "2.43",
+            "diesel_low_sulfur": "",
+            "premium": "2.99",
+            "regular": "2.78"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "2.46",
+            "diesel_low_sulfur": "",
+            "premium": "3.03",
+            "regular": "2.81"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2017-01-01 00:00:00",
+      "to": "2017-01-02 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "2.42",
+            "diesel_low_sulfur": "",
+            "premium": "2.99",
+            "regular": "2.77"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "2.43",
+            "diesel_low_sulfur": "",
+            "premium": "2.99",
+            "regular": "2.78"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "2.46",
+            "diesel_low_sulfur": "",
+            "premium": "3.03",
+            "regular": "2.81"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2017-01-03 00:00:00",
+      "to": "2017-01-16 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "2.49",
+            "diesel_low_sulfur": "",
+            "premium": "3.09",
+            "regular": "2.90"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "2.50",
+            "diesel_low_sulfur": "",
+            "premium": "3.09",
+            "regular": "2.91"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "2.54",
+            "diesel_low_sulfur": "",
+            "premium": "3.13",
+            "regular": "2.94"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2017-01-17 00:00:00",
+      "to": "2017-01-30 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "2.54",
+            "diesel_low_sulfur": "",
+            "premium": "3.13",
+            "regular": "2.96"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "2.55",
+            "diesel_low_sulfur": "",
+            "premium": "3.14",
+            "regular": "2.97"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "2.58",
+            "diesel_low_sulfur": "",
+            "premium": "3.17",
+            "regular": "3.00"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2017-01-31 00:00:00",
+      "to": "2017-02-13 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "2.53",
+            "diesel_low_sulfur": "",
+            "premium": "3.11",
+            "regular": "2.90"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "2.54",
+            "diesel_low_sulfur": "",
+            "premium": "3.11",
+            "regular": "2.91"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "2.57",
+            "diesel_low_sulfur": "",
+            "premium": "3.15",
+            "regular": "2.95"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2017-02-14 00:00:00",
+      "to": "2017-02-27 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "2.53",
+            "diesel_low_sulfur": "",
+            "premium": "3.06",
+            "regular": "2.86"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "2.54",
+            "diesel_low_sulfur": "",
+            "premium": "3.07",
+            "regular": "2.87"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "2.58",
+            "diesel_low_sulfur": "",
+            "premium": "3.10",
+            "regular": "2.91"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2017-02-28 00:00:00",
+      "to": "2017-03-13 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "2.55",
+            "diesel_low_sulfur": "",
+            "premium": "3.04",
+            "regular": "2.86"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "2.56",
+            "diesel_low_sulfur": "",
+            "premium": "3.05",
+            "regular": "2.87"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "2.59",
+            "diesel_low_sulfur": "",
+            "premium": "3.08",
+            "regular": "2.91"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2017-03-14 00:00:00",
+      "to": "2017-03-27 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "2.53",
+            "diesel_low_sulfur": "",
+            "premium": "3.05",
+            "regular": "2.86"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "2.54",
+            "diesel_low_sulfur": "",
+            "premium": "3.06",
+            "regular": "2.87"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "2.58",
+            "diesel_low_sulfur": "",
+            "premium": "3.10",
+            "regular": "2.91"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2017-03-28 00:00:00",
+      "to": "2017-04-10 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "2.45",
+            "diesel_low_sulfur": "",
+            "premium": "3.03",
+            "regular": "2.84"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "2.46",
+            "diesel_low_sulfur": "",
+            "premium": "3.04",
+            "regular": "2.85"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "2.49",
+            "diesel_low_sulfur": "",
+            "premium": "3.07",
+            "regular": "2.89"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2017-04-11 00:00:00",
+      "to": "2017-04-24 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "2.42",
+            "diesel_low_sulfur": "",
+            "premium": "3.05",
+            "regular": "2.88"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "2.43",
+            "diesel_low_sulfur": "",
+            "premium": "3.06",
+            "regular": "2.89"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "2.47",
+            "diesel_low_sulfur": "",
+            "premium": "3.10",
+            "regular": "2.93"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2017-04-25 00:00:00",
+      "to": "2017-05-08 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "2.50",
+            "diesel_low_sulfur": "",
+            "premium": "3.17",
+            "regular": "2.99"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "2.51",
+            "diesel_low_sulfur": "",
+            "premium": "3.18",
+            "regular": "2.99"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "2.54",
+            "diesel_low_sulfur": "",
+            "premium": "3.21",
+            "regular": "3.03"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2017-05-09 00:00:00",
+      "to": "2017-05-22 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "2.46",
+            "diesel_low_sulfur": "2.56",
+            "premium": "3.12",
+            "regular": "2.91"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "2.47",
+            "diesel_low_sulfur": "2.57",
+            "premium": "3.12",
+            "regular": "2.92"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "2.50",
+            "diesel_low_sulfur": "2.60",
+            "premium": "3.16",
+            "regular": "2.95"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2017-05-23 00:00:00",
+      "to": "2017-06-05 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "2.38",
+            "diesel_low_sulfur": "2.48",
+            "premium": "3.06",
+            "regular": "2.82"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "2.39",
+            "diesel_low_sulfur": "2.49",
+            "premium": "3.07",
+            "regular": "2.82"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "2.43",
+            "diesel_low_sulfur": "2.52",
+            "premium": "3.11",
+            "regular": "2.86"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2017-06-06 00:00:00",
+      "to": "2017-06-19 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "2.42",
+            "diesel_low_sulfur": "2.52",
+            "premium": "3.13",
+            "regular": "2.88"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "2.43",
+            "diesel_low_sulfur": "2.52",
+            "premium": "3.14",
+            "regular": "2.89"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "2.47",
+            "diesel_low_sulfur": "2.56",
+            "premium": "3.18",
+            "regular": "2.92"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2017-06-20 00:00:00",
+      "to": "2017-07-03 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "2.37",
+            "diesel_low_sulfur": "2.47",
+            "premium": "3.05",
+            "regular": "2.84"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "2.38",
+            "diesel_low_sulfur": "2.48",
+            "premium": "3.06",
+            "regular": "2.85"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "2.42",
+            "diesel_low_sulfur": "2.51",
+            "premium": "3.09",
+            "regular": "2.89"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2017-07-04 00:00:00",
+      "to": "2017-07-17 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "2.29",
+            "diesel_low_sulfur": "2.39",
+            "premium": "2.93",
+            "regular": "2.76"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "2.29",
+            "diesel_low_sulfur": "2.40",
+            "premium": "2.94",
+            "regular": "2.77"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "2.33",
+            "diesel_low_sulfur": "2.43",
+            "premium": "2.97",
+            "regular": "2.80"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2017-07-18 00:00:00",
+      "to": "2017-07-31 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "2.30",
+            "diesel_low_sulfur": "2.41",
+            "premium": "2.94",
+            "regular": "2.78"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "2.31",
+            "diesel_low_sulfur": "2.42",
+            "premium": "2.95",
+            "regular": "2.79"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "2.34",
+            "diesel_low_sulfur": "2.46",
+            "premium": "2.98",
+            "regular": "2.83"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2017-08-01 00:00:00",
+      "to": "2017-08-14 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "2.39",
+            "diesel_low_sulfur": "2.51",
+            "premium": "3.04",
+            "regular": "2.87"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "2.40",
+            "diesel_low_sulfur": "2.51",
+            "premium": "3.05",
+            "regular": "2.88"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "2.43",
+            "diesel_low_sulfur": "2.55",
+            "premium": "3.08",
+            "regular": "2.91"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2017-08-15 00:00:00",
+      "to": "2017-08-28 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "2.46",
+            "diesel_low_sulfur": "2.60",
+            "premium": "3.14",
+            "regular": "2.93"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "2.47",
+            "diesel_low_sulfur": "2.60",
+            "premium": "3.15",
+            "regular": "2.94"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "2.51",
+            "diesel_low_sulfur": "2.64",
+            "premium": "3.18",
+            "regular": "2.98"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2017-08-29 00:00:00",
+      "to": "2017-09-11 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "2.49",
+            "diesel_low_sulfur": "2.62",
+            "premium": "3.15",
+            "regular": "2.95"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "2.50",
+            "diesel_low_sulfur": "2.63",
+            "premium": "3.15",
+            "regular": "2.95"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "2.53",
+            "diesel_low_sulfur": "2.67",
+            "premium": "3.19",
+            "regular": "2.99"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2017-09-12 00:00:00",
+      "to": "2017-09-25 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "2.54",
+            "diesel_low_sulfur": "2.70",
+            "premium": "3.34",
+            "regular": "3.07"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "2.55",
+            "diesel_low_sulfur": "2.71",
+            "premium": "3.34",
+            "regular": "3.08"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "2.59",
+            "diesel_low_sulfur": "2.74",
+            "premium": "3.38",
+            "regular": "3.12"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2017-09-26 00:00:00",
+      "to": "2017-10-09 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "2.64",
+            "diesel_low_sulfur": "2.81",
+            "premium": "3.50",
+            "regular": "3.14"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "2.65",
+            "diesel_low_sulfur": "2.82",
+            "premium": "3.51",
+            "regular": "3.15"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "2.68",
+            "diesel_low_sulfur": "2.85",
+            "premium": "3.54",
+            "regular": "3.18"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2017-10-10 00:00:00",
+      "to": "2017-10-23 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "2.65",
+            "diesel_low_sulfur": "2.81",
+            "premium": "3.29",
+            "regular": "3.01"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "2.66",
+            "diesel_low_sulfur": "2.82",
+            "premium": "3.30",
+            "regular": "3.02"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "2.69",
+            "diesel_low_sulfur": "2.85",
+            "premium": "3.33",
+            "regular": "3.05"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2017-10-24 00:00:00",
+      "to": "2017-11-06 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "2.63",
+            "diesel_low_sulfur": "2.79",
+            "premium": "3.14",
+            "regular": "2.95"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "2.64",
+            "diesel_low_sulfur": "2.80",
+            "premium": "3.14",
+            "regular": "2.96"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "2.67",
+            "diesel_low_sulfur": "2.84",
+            "premium": "3.18",
+            "regular": "2.99"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2017-11-07 00:00:00",
+      "to": "2017-11-20 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "2.69",
+            "diesel_low_sulfur": "2.81",
+            "premium": "3.19",
+            "regular": "3.00"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "2.70",
+            "diesel_low_sulfur": "2.82",
+            "premium": "3.20",
+            "regular": "3.01"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "2.73",
+            "diesel_low_sulfur": "2.85",
+            "premium": "3.23",
+            "regular": "3.04"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2017-11-21 00:00:00",
+      "to": "2017-12-04 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "2.78",
+            "diesel_low_sulfur": "2.88",
+            "premium": "3.26",
+            "regular": "3.07"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "2.79",
+            "diesel_low_sulfur": "2.88",
+            "premium": "3.27",
+            "regular": "3.08"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "2.82",
+            "diesel_low_sulfur": "2.92",
+            "premium": "3.30",
+            "regular": "3.12"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2017-12-05 00:00:00",
+      "to": "2017-12-18 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "2.85",
+            "diesel_low_sulfur": "2.95",
+            "premium": "3.28",
+            "regular": "3.13"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "2.86",
+            "diesel_low_sulfur": "2.95",
+            "premium": "3.29",
+            "regular": "3.14"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "2.89",
+            "diesel_low_sulfur": "2.99",
+            "premium": "3.33",
+            "regular": "3.18"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2017-12-19 00:00:00",
+      "to": "2017-12-31 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "2.86",
+            "diesel_low_sulfur": "2.96",
+            "premium": "3.26",
+            "regular": "3.11"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "2.87",
+            "diesel_low_sulfur": "2.97",
+            "premium": "3.27",
+            "regular": "3.12"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "2.91",
+            "diesel_low_sulfur": "3.00",
+            "premium": "3.32",
+            "regular": "3.16"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2018-01-01 00:00:00",
+      "to": "2018-01-01 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "2.86",
+            "diesel_low_sulfur": "2.96",
+            "premium": "3.26",
+            "regular": "3.11"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "2.87",
+            "diesel_low_sulfur": "2.97",
+            "premium": "3.27",
+            "regular": "3.12"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "2.91",
+            "diesel_low_sulfur": "3.00",
+            "premium": "3.32",
+            "regular": "3.16"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2018-01-02 00:00:00",
+      "to": "2018-01-15 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "2.90",
+            "diesel_low_sulfur": "2.99",
+            "premium": "3.28",
+            "regular": "3.12"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "2.91",
+            "diesel_low_sulfur": "3.00",
+            "premium": "3.29",
+            "regular": "3.13"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "2.95",
+            "diesel_low_sulfur": "3.03",
+            "premium": "3.34",
+            "regular": "3.17"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2018-01-16 00:00:00",
+      "to": "2018-01-29 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "2.98",
+            "diesel_low_sulfur": "3.07",
+            "premium": "3.38",
+            "regular": "3.20"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "2.99",
+            "diesel_low_sulfur": "3.08",
+            "premium": "3.39",
+            "regular": "3.21"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "3.03",
+            "diesel_low_sulfur": "3.11",
+            "premium": "3.43",
+            "regular": "3.25"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2018-01-30 00:00:00",
+      "to": "2018-02-12 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "3.04",
+            "diesel_low_sulfur": "3.13",
+            "premium": "3.48",
+            "regular": "3.29"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "3.04",
+            "diesel_low_sulfur": "3.14",
+            "premium": "3.49",
+            "regular": "3.30"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "3.08",
+            "diesel_low_sulfur": "3.17",
+            "premium": "3.53",
+            "regular": "3.33"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2018-02-13 00:00:00",
+      "to": "2018-02-26 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "3.00",
+            "diesel_low_sulfur": "3.12",
+            "premium": "3.52",
+            "regular": "3.32"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "3.01",
+            "diesel_low_sulfur": "3.13",
+            "premium": "3.53",
+            "regular": "3.33"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "3.05",
+            "diesel_low_sulfur": "3.17",
+            "premium": "3.58",
+            "regular": "3.36"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2018-02-27 00:00:00",
+      "to": "2018-03-12 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "2.90",
+            "diesel_low_sulfur": "3.04",
+            "premium": "3.46",
+            "regular": "3.24"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "2.91",
+            "diesel_low_sulfur": "3.05",
+            "premium": "3.46",
+            "regular": "3.25"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "2.95",
+            "diesel_low_sulfur": "3.08",
+            "premium": "3.51",
+            "regular": "3.28"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2018-03-13 00:00:00",
+      "to": "2018-03-26 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "2.86",
+            "diesel_low_sulfur": "2.98",
+            "premium": "3.41",
+            "regular": "3.20"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "2.87",
+            "diesel_low_sulfur": "2.99",
+            "premium": "3.42",
+            "regular": "3.21"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "2.90",
+            "diesel_low_sulfur": "3.02",
+            "premium": "3.45",
+            "regular": "3.25"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2018-03-27 00:00:00",
+      "to": "2018-04-09 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "2.89",
+            "diesel_low_sulfur": "2.99",
+            "premium": "3.46",
+            "regular": "3.26"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "2.90",
+            "diesel_low_sulfur": "3.00",
+            "premium": "3.47",
+            "regular": "3.27"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "2.93",
+            "diesel_low_sulfur": "3.04",
+            "premium": "3.51",
+            "regular": "3.31"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2018-04-10 00:00:00",
+      "to": "2018-04-23 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "2.97",
+            "diesel_low_sulfur": "3.05",
+            "premium": "3.58",
+            "regular": "3.35"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "2.98",
+            "diesel_low_sulfur": "3.06",
+            "premium": "3.59",
+            "regular": "3.36"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "3.01",
+            "diesel_low_sulfur": "3.09",
+            "premium": "3.63",
+            "regular": "3.39"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2018-04-24 00:00:00",
+      "to": "2018-05-07 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "3.08",
+            "diesel_low_sulfur": "3.14",
+            "premium": "3.66",
+            "regular": "3.42"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "3.09",
+            "diesel_low_sulfur": "3.15",
+            "premium": "3.67",
+            "regular": "3.43"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "3.12",
+            "diesel_low_sulfur": "3.18",
+            "premium": "3.70",
+            "regular": "3.46"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2018-05-08 00:00:00",
+      "to": "2018-05-21 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "3.15",
+            "diesel_low_sulfur": "3.22",
+            "premium": "3.72",
+            "regular": "3.50"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "3.16",
+            "diesel_low_sulfur": "3.23",
+            "premium": "3.73",
+            "regular": "3.51"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "3.19",
+            "diesel_low_sulfur": "3.26",
+            "premium": "3.76",
+            "regular": "3.54"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2018-05-22 00:00:00",
+      "to": "2018-06-04 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "3.22",
+            "diesel_low_sulfur": "3.31",
+            "premium": "3.79",
+            "regular": "3.58"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "3.23",
+            "diesel_low_sulfur": "3.32",
+            "premium": "3.80",
+            "regular": "3.59"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "3.27",
+            "diesel_low_sulfur": "3.36",
+            "premium": "3.83",
+            "regular": "3.62"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2018-06-05 00:00:00",
+      "to": "2018-06-18 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "3.28",
+            "diesel_low_sulfur": "3.38",
+            "premium": "3.85",
+            "regular": "3.62"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "3.29",
+            "diesel_low_sulfur": "3.39",
+            "premium": "3.86",
+            "regular": "3.63"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "3.32",
+            "diesel_low_sulfur": "3.42",
+            "premium": "3.89",
+            "regular": "3.66"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2018-06-19 00:00:00",
+      "to": "2018-07-02 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "3.23",
+            "diesel_low_sulfur": "3.33",
+            "premium": "3.82",
+            "regular": "3.56"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "3.24",
+            "diesel_low_sulfur": "3.33",
+            "premium": "3.83",
+            "regular": "3.57"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "3.28",
+            "diesel_low_sulfur": "3.37",
+            "premium": "3.87",
+            "regular": "3.60"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2018-07-03 00:00:00",
+      "to": "2018-07-16 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "3.18",
+            "diesel_low_sulfur": "3.27",
+            "premium": "3.73",
+            "regular": "3.49"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "3.19",
+            "diesel_low_sulfur": "3.28",
+            "premium": "3.74",
+            "regular": "3.50"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "3.22",
+            "diesel_low_sulfur": "3.31",
+            "premium": "3.78",
+            "regular": "3.53"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2018-07-17 00:00:00",
+      "to": "2018-07-30 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "3.19",
+            "diesel_low_sulfur": "3.27",
+            "premium": "3.73",
+            "regular": "3.51"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "3.20",
+            "diesel_low_sulfur": "3.28",
+            "premium": "3.74",
+            "regular": "3.52"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "3.23",
+            "diesel_low_sulfur": "3.32",
+            "premium": "3.77",
+            "regular": "3.56"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2018-07-31 00:00:00",
+      "to": "2018-08-13 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "3.19",
+            "diesel_low_sulfur": "3.26",
+            "premium": "3.74",
+            "regular": "3.53"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "3.19",
+            "diesel_low_sulfur": "3.27",
+            "premium": "3.74",
+            "regular": "3.54"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "3.23",
+            "diesel_low_sulfur": "3.30",
+            "premium": "3.78",
+            "regular": "3.57"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2018-08-14 00:00:00",
+      "to": "2018-08-27 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "3.18",
+            "diesel_low_sulfur": "3.24",
+            "premium": "3.73",
+            "regular": "3.52"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "3.19",
+            "diesel_low_sulfur": "3.25",
+            "premium": "3.74",
+            "regular": "3.53"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "3.23",
+            "diesel_low_sulfur": "3.29",
+            "premium": "3.77",
+            "regular": "3.56"
+          }
+        }
+      ]
+    },
+    {
+      "from": "2018-08-28 00:00:00",
+      "to": "2018-09-10 00:00:00",
+      "zones": [
+        {
+          "name": "central",
+          "prices": {
+            "diesel": "3.21",
+            "diesel_low_sulfur": "3.25",
+            "premium": "3.70",
+            "regular": "3.51"
+          }
+        },
+        {
+          "name": "western",
+          "prices": {
+            "diesel": "3.22",
+            "diesel_low_sulfur": "3.26",
+            "premium": "3.71",
+            "regular": "3.52"
+          }
+        },
+        {
+          "name": "eastern",
+          "prices": {
+            "diesel": "3.25",
+            "diesel_low_sulfur": "3.30",
+            "premium": "3.74",
+            "regular": "3.56"
+          }
+        }
+      ]
+    }
+  ]
+}
