@@ -8,7 +8,7 @@
           "name": "central",
           "prices": {
             "diesel": "3.49",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "3.85",
             "regular": "3.68"
           }
@@ -17,7 +17,7 @@
           "name": "western",
           "prices": {
             "diesel": "3.49",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "3.85",
             "regular": "3.68"
           }
@@ -26,7 +26,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "3.53",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "3.89",
             "regular": "3.72"
           }
@@ -41,7 +41,7 @@
           "name": "central",
           "prices": {
             "diesel": "3.52",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "3.87",
             "regular": "3.71"
           }
@@ -50,7 +50,7 @@
           "name": "western",
           "prices": {
             "diesel": "3.52",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "3.88",
             "regular": "3.71"
           }
@@ -59,7 +59,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "3.56",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "3.91",
             "regular": "3.75"
           }
@@ -74,7 +74,7 @@
           "name": "central",
           "prices": {
             "diesel": "3.54",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "3.91",
             "regular": "3.75"
           }
@@ -83,7 +83,7 @@
           "name": "western",
           "prices": {
             "diesel": "3.54",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "3.91",
             "regular": "3.76"
           }
@@ -92,7 +92,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "3.58",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "3.95",
             "regular": "3.79"
           }
@@ -107,7 +107,7 @@
           "name": "central",
           "prices": {
             "diesel": "3.59",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "3.93",
             "regular": "3.77"
           }
@@ -116,7 +116,7 @@
           "name": "western",
           "prices": {
             "diesel": "3.59",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "3.93",
             "regular": "3.78"
           }
@@ -125,7 +125,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "3.63",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "3.96",
             "regular": "3.81"
           }
@@ -140,7 +140,7 @@
           "name": "central",
           "prices": {
             "diesel": "3.64",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "3.95",
             "regular": "3.80"
           }
@@ -149,7 +149,7 @@
           "name": "western",
           "prices": {
             "diesel": "3.64",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "3.95",
             "regular": "3.80"
           }
@@ -158,7 +158,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "3.68",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "3.98",
             "regular": "3.83"
           }
@@ -173,7 +173,7 @@
           "name": "central",
           "prices": {
             "diesel": "3.69",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "3.94",
             "regular": "3.79"
           }
@@ -182,7 +182,7 @@
           "name": "western",
           "prices": {
             "diesel": "3.69",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "3.95",
             "regular": "3.79"
           }
@@ -191,7 +191,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "3.73",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "3.98",
             "regular": "3.83"
           }
@@ -206,7 +206,7 @@
           "name": "central",
           "prices": {
             "diesel": "3.74",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "3.95",
             "regular": "3.79"
           }
@@ -215,7 +215,7 @@
           "name": "western",
           "prices": {
             "diesel": "3.74",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "3.95",
             "regular": "3.79"
           }
@@ -224,7 +224,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "3.78",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "3.99",
             "regular": "3.82"
           }
@@ -239,7 +239,7 @@
           "name": "central",
           "prices": {
             "diesel": "3.78",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "3.95",
             "regular": "3.79"
           }
@@ -248,7 +248,7 @@
           "name": "western",
           "prices": {
             "diesel": "3.78",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "3.95",
             "regular": "3.79"
           }
@@ -257,7 +257,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "3.82",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "3.99",
             "regular": "3.83"
           }
@@ -272,7 +272,7 @@
           "name": "central",
           "prices": {
             "diesel": "3.81",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "3.99",
             "regular": "3.83"
           }
@@ -281,7 +281,7 @@
           "name": "western",
           "prices": {
             "diesel": "3.82",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "3.99",
             "regular": "3.84"
           }
@@ -290,7 +290,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "3.85",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.03",
             "regular": "3.87"
           }
@@ -305,7 +305,7 @@
           "name": "central",
           "prices": {
             "diesel": "3.85",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.08",
             "regular": "3.92"
           }
@@ -314,7 +314,7 @@
           "name": "western",
           "prices": {
             "diesel": "3.85",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.08",
             "regular": "3.93"
           }
@@ -323,7 +323,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "3.89",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.12",
             "regular": "3.96"
           }
@@ -338,7 +338,7 @@
           "name": "central",
           "prices": {
             "diesel": "3.96",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.23",
             "regular": "4.07"
           }
@@ -347,7 +347,7 @@
           "name": "western",
           "prices": {
             "diesel": "3.97",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.23",
             "regular": "4.08"
           }
@@ -356,7 +356,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "4.00",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.27",
             "regular": "4.11"
           }
@@ -371,7 +371,7 @@
           "name": "central",
           "prices": {
             "diesel": "4.08",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.40",
             "regular": "4.23"
           }
@@ -380,7 +380,7 @@
           "name": "western",
           "prices": {
             "diesel": "4.08",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.41",
             "regular": "4.23"
           }
@@ -389,7 +389,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "4.12",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.44",
             "regular": "4.27"
           }
@@ -404,7 +404,7 @@
           "name": "central",
           "prices": {
             "diesel": "4.15",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.46",
             "regular": "4.28"
           }
@@ -413,7 +413,7 @@
           "name": "western",
           "prices": {
             "diesel": "4.15",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.46",
             "regular": "4.28"
           }
@@ -422,7 +422,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "4.19",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.50",
             "regular": "4.32"
           }
@@ -437,7 +437,7 @@
           "name": "central",
           "prices": {
             "diesel": "4.16",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.50",
             "regular": "4.31"
           }
@@ -446,7 +446,7 @@
           "name": "western",
           "prices": {
             "diesel": "4.16",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.51",
             "regular": "4.31"
           }
@@ -455,7 +455,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "4.20",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.54",
             "regular": "4.35"
           }
@@ -470,7 +470,7 @@
           "name": "central",
           "prices": {
             "diesel": "4.18",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.55",
             "regular": "4.34"
           }
@@ -479,7 +479,7 @@
           "name": "western",
           "prices": {
             "diesel": "4.18",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.56",
             "regular": "4.34"
           }
@@ -488,7 +488,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "4.22",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.59",
             "regular": "4.38"
           }
@@ -503,7 +503,7 @@
           "name": "central",
           "prices": {
             "diesel": "4.26",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.70",
             "regular": "4.45"
           }
@@ -512,7 +512,7 @@
           "name": "western",
           "prices": {
             "diesel": "4.26",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.70",
             "regular": "4.45"
           }
@@ -521,7 +521,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "4.29",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.74",
             "regular": "4.49"
           }
@@ -536,7 +536,7 @@
           "name": "central",
           "prices": {
             "diesel": "4.32",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.82",
             "regular": "4.53"
           }
@@ -545,7 +545,7 @@
           "name": "western",
           "prices": {
             "diesel": "4.32",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.82",
             "regular": "4.53"
           }
@@ -554,7 +554,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "4.36",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.86",
             "regular": "4.57"
           }
@@ -569,7 +569,7 @@
           "name": "central",
           "prices": {
             "diesel": "4.37",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.89",
             "regular": "4.60"
           }
@@ -578,7 +578,7 @@
           "name": "western",
           "prices": {
             "diesel": "4.37",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.89",
             "regular": "4.60"
           }
@@ -587,7 +587,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "4.40",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.93",
             "regular": "4.64"
           }
@@ -602,7 +602,7 @@
           "name": "central",
           "prices": {
             "diesel": "4.40",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.86",
             "regular": "4.62"
           }
@@ -611,7 +611,7 @@
           "name": "western",
           "prices": {
             "diesel": "4.40",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.86",
             "regular": "4.62"
           }
@@ -620,7 +620,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "4.43",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.90",
             "regular": "4.65"
           }
@@ -635,7 +635,7 @@
           "name": "central",
           "prices": {
             "diesel": "4.28",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.63",
             "regular": "4.49"
           }
@@ -644,7 +644,7 @@
           "name": "western",
           "prices": {
             "diesel": "4.28",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.64",
             "regular": "4.50"
           }
@@ -653,7 +653,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "4.32",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.67",
             "regular": "4.53"
           }
@@ -668,7 +668,7 @@
           "name": "central",
           "prices": {
             "diesel": "4.12",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.40",
             "regular": "4.29"
           }
@@ -677,7 +677,7 @@
           "name": "western",
           "prices": {
             "diesel": "4.12",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.40",
             "regular": "4.29"
           }
@@ -686,7 +686,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "4.16",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.43",
             "regular": "4.33"
           }
@@ -701,7 +701,7 @@
           "name": "central",
           "prices": {
             "diesel": "4.15",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.25",
             "regular": "4.11"
           }
@@ -710,7 +710,7 @@
           "name": "western",
           "prices": {
             "diesel": "4.15",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.25",
             "regular": "4.11"
           }
@@ -719,7 +719,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "4.19",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.29",
             "regular": "4.15"
           }
@@ -734,7 +734,7 @@
           "name": "central",
           "prices": {
             "diesel": "4.17",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.21",
             "regular": "4.06"
           }
@@ -743,7 +743,7 @@
           "name": "western",
           "prices": {
             "diesel": "4.17",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.21",
             "regular": "4.06"
           }
@@ -752,7 +752,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "4.21",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.25",
             "regular": "4.10"
           }
@@ -767,7 +767,7 @@
           "name": "central",
           "prices": {
             "diesel": "4.11",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.21",
             "regular": "4.05"
           }
@@ -776,7 +776,7 @@
           "name": "western",
           "prices": {
             "diesel": "4.11",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.21",
             "regular": "4.06"
           }
@@ -785,7 +785,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "4.14",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.25",
             "regular": "4.09"
           }
@@ -800,7 +800,7 @@
           "name": "central",
           "prices": {
             "diesel": "4.19",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.41",
             "regular": "4.20"
           }
@@ -809,7 +809,7 @@
           "name": "western",
           "prices": {
             "diesel": "4.19",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.41",
             "regular": "4.20"
           }
@@ -818,7 +818,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "4.23",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.45",
             "regular": "4.23"
           }
@@ -833,7 +833,7 @@
           "name": "central",
           "prices": {
             "diesel": "4.25",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.45",
             "regular": "4.23"
           }
@@ -842,7 +842,7 @@
           "name": "western",
           "prices": {
             "diesel": "4.26",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.46",
             "regular": "4.23"
           }
@@ -851,7 +851,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "4.29",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.49",
             "regular": "4.26"
           }
@@ -866,7 +866,7 @@
           "name": "central",
           "prices": {
             "diesel": "4.13",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.29",
             "regular": "4.07"
           }
@@ -875,7 +875,7 @@
           "name": "western",
           "prices": {
             "diesel": "4.13",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.29",
             "regular": "4.08"
           }
@@ -884,7 +884,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "4.17",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.32",
             "regular": "4.11"
           }
@@ -899,7 +899,7 @@
           "name": "central",
           "prices": {
             "diesel": "4.10",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.32",
             "regular": "4.05"
           }
@@ -908,7 +908,7 @@
           "name": "western",
           "prices": {
             "diesel": "4.10",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.32",
             "regular": "4.05"
           }
@@ -917,7 +917,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "4.14",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.36",
             "regular": "4.09"
           }
@@ -932,7 +932,7 @@
           "name": "central",
           "prices": {
             "diesel": "4.16",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.34",
             "regular": "4.08"
           }
@@ -941,7 +941,7 @@
           "name": "western",
           "prices": {
             "diesel": "4.16",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.34",
             "regular": "4.08"
           }
@@ -950,7 +950,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "4.20",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.38",
             "regular": "4.12"
           }
@@ -965,7 +965,7 @@
           "name": "central",
           "prices": {
             "diesel": "4.07",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.11",
             "regular": "3.90"
           }
@@ -974,7 +974,7 @@
           "name": "western",
           "prices": {
             "diesel": "4.07",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.11",
             "regular": "3.91"
           }
@@ -983,7 +983,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "4.11",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.14",
             "regular": "3.94"
           }
@@ -998,7 +998,7 @@
           "name": "central",
           "prices": {
             "diesel": "4.02",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.05",
             "regular": "3.88"
           }
@@ -1007,7 +1007,7 @@
           "name": "western",
           "prices": {
             "diesel": "4.02",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.05",
             "regular": "3.89"
           }
@@ -1016,7 +1016,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "4.06",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.09",
             "regular": "3.92"
           }
@@ -1031,7 +1031,7 @@
           "name": "central",
           "prices": {
             "diesel": "4.12",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.10",
             "regular": "3.95"
           }
@@ -1040,7 +1040,7 @@
           "name": "western",
           "prices": {
             "diesel": "4.12",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.10",
             "regular": "3.95"
           }
@@ -1049,7 +1049,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "4.16",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.13",
             "regular": "3.99"
           }
@@ -1064,7 +1064,7 @@
           "name": "central",
           "prices": {
             "diesel": "4.23",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.08",
             "regular": "3.91"
           }
@@ -1073,7 +1073,7 @@
           "name": "western",
           "prices": {
             "diesel": "4.23",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.08",
             "regular": "3.91"
           }
@@ -1082,7 +1082,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "4.26",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.12",
             "regular": "3.94"
           }
@@ -1097,7 +1097,7 @@
           "name": "central",
           "prices": {
             "diesel": "4.25",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.01",
             "regular": "3.81"
           }
@@ -1106,7 +1106,7 @@
           "name": "western",
           "prices": {
             "diesel": "4.26",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.02",
             "regular": "3.82"
           }
@@ -1115,7 +1115,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "4.30",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.05",
             "regular": "3.85"
           }
@@ -1130,7 +1130,7 @@
           "name": "central",
           "prices": {
             "diesel": "4.17",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "3.96",
             "regular": "3.73"
           }
@@ -1139,7 +1139,7 @@
           "name": "western",
           "prices": {
             "diesel": "4.18",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "3.97",
             "regular": "3.74"
           }
@@ -1148,7 +1148,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "4.21",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.00",
             "regular": "3.77"
           }
@@ -1163,7 +1163,7 @@
           "name": "central",
           "prices": {
             "diesel": "4.04",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "3.98",
             "regular": "3.75"
           }
@@ -1172,7 +1172,7 @@
           "name": "western",
           "prices": {
             "diesel": "4.05",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "3.99",
             "regular": "3.76"
           }
@@ -1181,7 +1181,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "4.09",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.02",
             "regular": "3.79"
           }
@@ -1196,7 +1196,7 @@
           "name": "central",
           "prices": {
             "diesel": "4.04",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.16",
             "regular": "3.93"
           }
@@ -1205,7 +1205,7 @@
           "name": "western",
           "prices": {
             "diesel": "4.05",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.17",
             "regular": "3.93"
           }
@@ -1214,7 +1214,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "4.09",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.20",
             "regular": "3.97"
           }
@@ -1229,7 +1229,7 @@
           "name": "central",
           "prices": {
             "diesel": "4.06",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.22",
             "regular": "3.99"
           }
@@ -1238,7 +1238,7 @@
           "name": "western",
           "prices": {
             "diesel": "4.07",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.23",
             "regular": "4.00"
           }
@@ -1247,7 +1247,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "4.10",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.27",
             "regular": "4.04"
           }
@@ -1262,7 +1262,7 @@
           "name": "central",
           "prices": {
             "diesel": "4.19",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.41",
             "regular": "4.14"
           }
@@ -1271,7 +1271,7 @@
           "name": "western",
           "prices": {
             "diesel": "4.20",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.42",
             "regular": "4.15"
           }
@@ -1280,7 +1280,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "4.23",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.45",
             "regular": "4.18"
           }
@@ -1295,7 +1295,7 @@
           "name": "central",
           "prices": {
             "diesel": "4.23",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.52",
             "regular": "4.23"
           }
@@ -1304,7 +1304,7 @@
           "name": "western",
           "prices": {
             "diesel": "4.24",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.53",
             "regular": "4.24"
           }
@@ -1313,7 +1313,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "4.27",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.56",
             "regular": "4.28"
           }
@@ -1328,7 +1328,7 @@
           "name": "central",
           "prices": {
             "diesel": "4.31",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.61",
             "regular": "4.36"
           }
@@ -1337,7 +1337,7 @@
           "name": "western",
           "prices": {
             "diesel": "4.31",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.62",
             "regular": "4.37"
           }
@@ -1346,7 +1346,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "4.35",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.65",
             "regular": "4.41"
           }
@@ -1361,7 +1361,7 @@
           "name": "central",
           "prices": {
             "diesel": "4.42",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.74",
             "regular": "4.51"
           }
@@ -1370,7 +1370,7 @@
           "name": "western",
           "prices": {
             "diesel": "4.43",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.74",
             "regular": "4.52"
           }
@@ -1379,7 +1379,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "4.46",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.78",
             "regular": "4.56"
           }
@@ -1394,7 +1394,7 @@
           "name": "central",
           "prices": {
             "diesel": "4.45",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.80",
             "regular": "4.62"
           }
@@ -1403,7 +1403,7 @@
           "name": "western",
           "prices": {
             "diesel": "4.46",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.81",
             "regular": "4.63"
           }
@@ -1412,7 +1412,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "4.50",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.85",
             "regular": "4.66"
           }
@@ -1427,7 +1427,7 @@
           "name": "central",
           "prices": {
             "diesel": "4.44",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.88",
             "regular": "4.69"
           }
@@ -1436,7 +1436,7 @@
           "name": "western",
           "prices": {
             "diesel": "4.45",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.89",
             "regular": "4.70"
           }
@@ -1445,7 +1445,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "4.49",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.92",
             "regular": "4.73"
           }
@@ -1460,7 +1460,7 @@
           "name": "central",
           "prices": {
             "diesel": "4.41",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.96",
             "regular": "4.72"
           }
@@ -1469,7 +1469,7 @@
           "name": "western",
           "prices": {
             "diesel": "4.42",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.97",
             "regular": "4.72"
           }
@@ -1478,7 +1478,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "4.45",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "5.00",
             "regular": "4.76"
           }
@@ -1493,7 +1493,7 @@
           "name": "central",
           "prices": {
             "diesel": "4.38",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.85",
             "regular": "4.58"
           }
@@ -1502,7 +1502,7 @@
           "name": "western",
           "prices": {
             "diesel": "4.39",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.86",
             "regular": "4.59"
           }
@@ -1511,7 +1511,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "4.42",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.89",
             "regular": "4.63"
           }
@@ -1526,7 +1526,7 @@
           "name": "central",
           "prices": {
             "diesel": "4.32",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.65",
             "regular": "4.38"
           }
@@ -1535,7 +1535,7 @@
           "name": "western",
           "prices": {
             "diesel": "4.33",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.66",
             "regular": "4.39"
           }
@@ -1544,7 +1544,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "4.36",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.70",
             "regular": "4.43"
           }
@@ -1559,7 +1559,7 @@
           "name": "central",
           "prices": {
             "diesel": "4.16",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.51",
             "regular": "4.22"
           }
@@ -1568,7 +1568,7 @@
           "name": "western",
           "prices": {
             "diesel": "4.17",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.52",
             "regular": "4.23"
           }
@@ -1577,7 +1577,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "4.20",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.56",
             "regular": "4.26"
           }
@@ -1592,7 +1592,7 @@
           "name": "central",
           "prices": {
             "diesel": "3.95",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.43",
             "regular": "4.09"
           }
@@ -1601,7 +1601,7 @@
           "name": "western",
           "prices": {
             "diesel": "3.96",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.44",
             "regular": "4.10"
           }
@@ -1610,7 +1610,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "4.00",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.47",
             "regular": "4.13"
           }
@@ -1625,7 +1625,7 @@
           "name": "central",
           "prices": {
             "diesel": "3.81",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.34",
             "regular": "3.95"
           }
@@ -1634,7 +1634,7 @@
           "name": "western",
           "prices": {
             "diesel": "3.82",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.35",
             "regular": "3.96"
           }
@@ -1643,7 +1643,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "3.85",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.38",
             "regular": "4.00"
           }
@@ -1658,7 +1658,7 @@
           "name": "central",
           "prices": {
             "diesel": "3.78",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.22",
             "regular": "3.88"
           }
@@ -1667,7 +1667,7 @@
           "name": "western",
           "prices": {
             "diesel": "3.79",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.23",
             "regular": "3.89"
           }
@@ -1676,7 +1676,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "3.82",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.27",
             "regular": "3.92"
           }
@@ -1691,7 +1691,7 @@
           "name": "central",
           "prices": {
             "diesel": "3.89",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.34",
             "regular": "3.97"
           }
@@ -1700,7 +1700,7 @@
           "name": "western",
           "prices": {
             "diesel": "3.90",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.35",
             "regular": "3.98"
           }
@@ -1709,7 +1709,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "3.93",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.38",
             "regular": "4.01"
           }
@@ -1724,7 +1724,7 @@
           "name": "central",
           "prices": {
             "diesel": "3.99",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.48",
             "regular": "4.10"
           }
@@ -1733,7 +1733,7 @@
           "name": "western",
           "prices": {
             "diesel": "4.00",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.48",
             "regular": "4.11"
           }
@@ -1742,7 +1742,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "4.03",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.52",
             "regular": "4.14"
           }
@@ -1757,7 +1757,7 @@
           "name": "central",
           "prices": {
             "diesel": "4.11",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.58",
             "regular": "4.25"
           }
@@ -1766,7 +1766,7 @@
           "name": "western",
           "prices": {
             "diesel": "4.12",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.58",
             "regular": "4.26"
           }
@@ -1775,7 +1775,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "4.15",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.62",
             "regular": "4.29"
           }
@@ -1790,7 +1790,7 @@
           "name": "central",
           "prices": {
             "diesel": "4.26",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.73",
             "regular": "4.43"
           }
@@ -1799,7 +1799,7 @@
           "name": "western",
           "prices": {
             "diesel": "4.27",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.74",
             "regular": "4.44"
           }
@@ -1808,7 +1808,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "4.31",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.77",
             "regular": "4.47"
           }
@@ -1823,7 +1823,7 @@
           "name": "central",
           "prices": {
             "diesel": "4.36",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.90",
             "regular": "4.55"
           }
@@ -1832,7 +1832,7 @@
           "name": "western",
           "prices": {
             "diesel": "4.37",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.91",
             "regular": "4.56"
           }
@@ -1841,7 +1841,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "4.40",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.94",
             "regular": "4.59"
           }
@@ -1856,7 +1856,7 @@
           "name": "central",
           "prices": {
             "diesel": "4.35",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.87",
             "regular": "4.48"
           }
@@ -1865,7 +1865,7 @@
           "name": "western",
           "prices": {
             "diesel": "4.36",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.88",
             "regular": "4.49"
           }
@@ -1874,7 +1874,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "4.39",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.91",
             "regular": "4.52"
           }
@@ -1889,7 +1889,7 @@
           "name": "central",
           "prices": {
             "diesel": "4.34",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.76",
             "regular": "4.43"
           }
@@ -1898,7 +1898,7 @@
           "name": "western",
           "prices": {
             "diesel": "4.35",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.77",
             "regular": "4.44"
           }
@@ -1907,7 +1907,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "4.38",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.80",
             "regular": "4.48"
           }
@@ -1922,7 +1922,7 @@
           "name": "central",
           "prices": {
             "diesel": "4.33",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.54",
             "regular": "4.27"
           }
@@ -1931,7 +1931,7 @@
           "name": "western",
           "prices": {
             "diesel": "4.34",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.55",
             "regular": "4.28"
           }
@@ -1940,7 +1940,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "4.37",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.58",
             "regular": "4.32"
           }
@@ -1955,7 +1955,7 @@
           "name": "central",
           "prices": {
             "diesel": "4.20",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.18",
             "regular": "3.99"
           }
@@ -1964,7 +1964,7 @@
           "name": "western",
           "prices": {
             "diesel": "4.21",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.19",
             "regular": "3.99"
           }
@@ -1973,7 +1973,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "4.24",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.23",
             "regular": "4.03"
           }
@@ -1988,7 +1988,7 @@
           "name": "central",
           "prices": {
             "diesel": "4.13",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.03",
             "regular": "3.92"
           }
@@ -1997,7 +1997,7 @@
           "name": "western",
           "prices": {
             "diesel": "4.14",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.04",
             "regular": "3.93"
           }
@@ -2006,7 +2006,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "4.17",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.07",
             "regular": "3.96"
           }
@@ -2021,7 +2021,7 @@
           "name": "central",
           "prices": {
             "diesel": "4.15",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.08",
             "regular": "3.92"
           }
@@ -2030,7 +2030,7 @@
           "name": "western",
           "prices": {
             "diesel": "4.16",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.08",
             "regular": "3.93"
           }
@@ -2039,7 +2039,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "4.20",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.12",
             "regular": "3.96"
           }
@@ -2054,7 +2054,7 @@
           "name": "central",
           "prices": {
             "diesel": "4.13",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.10",
             "regular": "3.87"
           }
@@ -2063,7 +2063,7 @@
           "name": "western",
           "prices": {
             "diesel": "4.14",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.11",
             "regular": "3.88"
           }
@@ -2072,7 +2072,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "4.17",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.14",
             "regular": "3.91"
           }
@@ -2087,7 +2087,7 @@
           "name": "central",
           "prices": {
             "diesel": "4.13",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.10",
             "regular": "3.87"
           }
@@ -2096,7 +2096,7 @@
           "name": "western",
           "prices": {
             "diesel": "4.14",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.11",
             "regular": "3.88"
           }
@@ -2105,7 +2105,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "4.17",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.14",
             "regular": "3.91"
           }
@@ -2120,7 +2120,7 @@
           "name": "central",
           "prices": {
             "diesel": "4.15",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.25",
             "regular": "3.96"
           }
@@ -2129,7 +2129,7 @@
           "name": "western",
           "prices": {
             "diesel": "4.16",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.26",
             "regular": "3.97"
           }
@@ -2138,7 +2138,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "4.19",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.29",
             "regular": "4.00"
           }
@@ -2153,7 +2153,7 @@
           "name": "central",
           "prices": {
             "diesel": "4.20",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.42",
             "regular": "4.09"
           }
@@ -2162,7 +2162,7 @@
           "name": "western",
           "prices": {
             "diesel": "4.21",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.43",
             "regular": "4.10"
           }
@@ -2171,7 +2171,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "4.25",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.47",
             "regular": "4.13"
           }
@@ -2186,7 +2186,7 @@
           "name": "central",
           "prices": {
             "diesel": "4.24",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.48",
             "regular": "4.13"
           }
@@ -2195,7 +2195,7 @@
           "name": "western",
           "prices": {
             "diesel": "4.25",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.49",
             "regular": "4.14"
           }
@@ -2204,7 +2204,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "4.28",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.53",
             "regular": "4.18"
           }
@@ -2219,7 +2219,7 @@
           "name": "central",
           "prices": {
             "diesel": "4.36",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.67",
             "regular": "4.29"
           }
@@ -2228,7 +2228,7 @@
           "name": "western",
           "prices": {
             "diesel": "4.37",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.68",
             "regular": "4.29"
           }
@@ -2237,7 +2237,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "4.41",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.71",
             "regular": "4.33"
           }
@@ -2252,7 +2252,7 @@
           "name": "central",
           "prices": {
             "diesel": "4.37",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.86",
             "regular": "4.44"
           }
@@ -2261,7 +2261,7 @@
           "name": "western",
           "prices": {
             "diesel": "4.38",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.86",
             "regular": "4.45"
           }
@@ -2270,7 +2270,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "4.41",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.90",
             "regular": "4.48"
           }
@@ -2285,7 +2285,7 @@
           "name": "central",
           "prices": {
             "diesel": "4.22",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.86",
             "regular": "4.45"
           }
@@ -2294,7 +2294,7 @@
           "name": "western",
           "prices": {
             "diesel": "4.23",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.87",
             "regular": "4.46"
           }
@@ -2303,7 +2303,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "4.26",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.90",
             "regular": "4.49"
           }
@@ -2318,7 +2318,7 @@
           "name": "central",
           "prices": {
             "diesel": "4.11",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.72",
             "regular": "4.37"
           }
@@ -2327,7 +2327,7 @@
           "name": "western",
           "prices": {
             "diesel": "4.12",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.73",
             "regular": "4.37"
           }
@@ -2336,7 +2336,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "4.16",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.76",
             "regular": "4.41"
           }
@@ -2351,7 +2351,7 @@
           "name": "central",
           "prices": {
             "diesel": "4.05",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.55",
             "regular": "4.21"
           }
@@ -2360,7 +2360,7 @@
           "name": "western",
           "prices": {
             "diesel": "4.06",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.56",
             "regular": "4.22"
           }
@@ -2369,7 +2369,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "4.10",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.59",
             "regular": "4.25"
           }
@@ -2384,7 +2384,7 @@
           "name": "central",
           "prices": {
             "diesel": "3.93",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.42",
             "regular": "4.11"
           }
@@ -2393,7 +2393,7 @@
           "name": "western",
           "prices": {
             "diesel": "3.94",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.43",
             "regular": "4.12"
           }
@@ -2402,7 +2402,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "3.97",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.46",
             "regular": "4.15"
           }
@@ -2417,7 +2417,7 @@
           "name": "central",
           "prices": {
             "diesel": "3.86",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.35",
             "regular": "4.12"
           }
@@ -2426,7 +2426,7 @@
           "name": "western",
           "prices": {
             "diesel": "3.87",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.36",
             "regular": "4.13"
           }
@@ -2435,7 +2435,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "3.90",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.39",
             "regular": "4.16"
           }
@@ -2450,7 +2450,7 @@
           "name": "central",
           "prices": {
             "diesel": "3.91",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.44",
             "regular": "4.14"
           }
@@ -2459,7 +2459,7 @@
           "name": "western",
           "prices": {
             "diesel": "3.92",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.45",
             "regular": "4.15"
           }
@@ -2468,7 +2468,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "3.95",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.49",
             "regular": "4.18"
           }
@@ -2483,7 +2483,7 @@
           "name": "central",
           "prices": {
             "diesel": "3.91",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.49",
             "regular": "4.13"
           }
@@ -2492,7 +2492,7 @@
           "name": "western",
           "prices": {
             "diesel": "3.91",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.50",
             "regular": "4.14"
           }
@@ -2501,7 +2501,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "3.95",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.53",
             "regular": "4.17"
           }
@@ -2516,7 +2516,7 @@
           "name": "central",
           "prices": {
             "diesel": "3.94",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.46",
             "regular": "4.12"
           }
@@ -2525,7 +2525,7 @@
           "name": "western",
           "prices": {
             "diesel": "3.95",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.47",
             "regular": "4.13"
           }
@@ -2534,7 +2534,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "3.99",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.51",
             "regular": "4.16"
           }
@@ -2549,7 +2549,7 @@
           "name": "central",
           "prices": {
             "diesel": "3.97",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.37",
             "regular": "4.06"
           }
@@ -2558,7 +2558,7 @@
           "name": "western",
           "prices": {
             "diesel": "3.98",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.38",
             "regular": "4.07"
           }
@@ -2567,7 +2567,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "4.01",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.42",
             "regular": "4.11"
           }
@@ -2582,7 +2582,7 @@
           "name": "central",
           "prices": {
             "diesel": "4.03",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.42",
             "regular": "4.17"
           }
@@ -2591,7 +2591,7 @@
           "name": "western",
           "prices": {
             "diesel": "4.04",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.43",
             "regular": "4.18"
           }
@@ -2600,7 +2600,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "4.07",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.47",
             "regular": "4.21"
           }
@@ -2615,7 +2615,7 @@
           "name": "central",
           "prices": {
             "diesel": "4.10",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.56",
             "regular": "4.34"
           }
@@ -2624,7 +2624,7 @@
           "name": "western",
           "prices": {
             "diesel": "4.11",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.57",
             "regular": "4.35"
           }
@@ -2633,7 +2633,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "4.14",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.60",
             "regular": "4.38"
           }
@@ -2648,7 +2648,7 @@
           "name": "central",
           "prices": {
             "diesel": "4.10",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.45",
             "regular": "4.30"
           }
@@ -2657,7 +2657,7 @@
           "name": "western",
           "prices": {
             "diesel": "4.11",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.46",
             "regular": "4.31"
           }
@@ -2666,7 +2666,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "4.15",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.49",
             "regular": "4.34"
           }
@@ -2681,7 +2681,7 @@
           "name": "central",
           "prices": {
             "diesel": "4.17",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.45",
             "regular": "4.30"
           }
@@ -2690,7 +2690,7 @@
           "name": "western",
           "prices": {
             "diesel": "4.18",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.46",
             "regular": "4.31"
           }
@@ -2699,7 +2699,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "4.22",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.49",
             "regular": "4.34"
           }
@@ -2714,7 +2714,7 @@
           "name": "central",
           "prices": {
             "diesel": "4.23",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.44",
             "regular": "4.21"
           }
@@ -2723,7 +2723,7 @@
           "name": "western",
           "prices": {
             "diesel": "4.23",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.45",
             "regular": "4.22"
           }
@@ -2732,7 +2732,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "4.27",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.48",
             "regular": "4.26"
           }
@@ -2747,7 +2747,7 @@
           "name": "central",
           "prices": {
             "diesel": "4.15",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.27",
             "regular": "4.02"
           }
@@ -2756,7 +2756,7 @@
           "name": "western",
           "prices": {
             "diesel": "4.16",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.28",
             "regular": "4.03"
           }
@@ -2765,7 +2765,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "4.20",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.31",
             "regular": "4.06"
           }
@@ -2780,7 +2780,7 @@
           "name": "central",
           "prices": {
             "diesel": "4.11",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.18",
             "regular": "3.95"
           }
@@ -2789,7 +2789,7 @@
           "name": "western",
           "prices": {
             "diesel": "4.12",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.19",
             "regular": "3.96"
           }
@@ -2798,7 +2798,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "4.15",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.22",
             "regular": "4.00"
           }
@@ -2813,7 +2813,7 @@
           "name": "central",
           "prices": {
             "diesel": "4.11",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.14",
             "regular": "3.93"
           }
@@ -2822,7 +2822,7 @@
           "name": "western",
           "prices": {
             "diesel": "4.12",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.15",
             "regular": "3.93"
           }
@@ -2831,7 +2831,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "4.16",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.18",
             "regular": "3.97"
           }
@@ -2846,7 +2846,7 @@
           "name": "central",
           "prices": {
             "diesel": "4.06",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.03",
             "regular": "3.82"
           }
@@ -2855,7 +2855,7 @@
           "name": "western",
           "prices": {
             "diesel": "4.06",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.04",
             "regular": "3.83"
           }
@@ -2864,7 +2864,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "4.10",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.08",
             "regular": "3.87"
           }
@@ -2879,7 +2879,7 @@
           "name": "central",
           "prices": {
             "diesel": "4.02",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.06",
             "regular": "3.83"
           }
@@ -2888,7 +2888,7 @@
           "name": "western",
           "prices": {
             "diesel": "4.03",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.06",
             "regular": "3.84"
           }
@@ -2897,7 +2897,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "4.06",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.10",
             "regular": "3.87"
           }
@@ -2912,7 +2912,7 @@
           "name": "central",
           "prices": {
             "diesel": "4.09",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.20",
             "regular": "3.93"
           }
@@ -2921,7 +2921,7 @@
           "name": "western",
           "prices": {
             "diesel": "4.10",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.21",
             "regular": "3.93"
           }
@@ -2930,7 +2930,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "4.14",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.25",
             "regular": "3.97"
           }
@@ -2945,7 +2945,7 @@
           "name": "central",
           "prices": {
             "diesel": "4.13",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.22",
             "regular": "3.92"
           }
@@ -2954,7 +2954,7 @@
           "name": "western",
           "prices": {
             "diesel": "4.14",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.22",
             "regular": "3.92"
           }
@@ -2963,7 +2963,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "4.17",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.26",
             "regular": "3.96"
           }
@@ -2978,7 +2978,7 @@
           "name": "central",
           "prices": {
             "diesel": "4.13",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.22",
             "regular": "3.92"
           }
@@ -2987,7 +2987,7 @@
           "name": "western",
           "prices": {
             "diesel": "4.14",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.22",
             "regular": "3.92"
           }
@@ -2996,7 +2996,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "4.17",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.26",
             "regular": "3.96"
           }
@@ -3011,7 +3011,7 @@
           "name": "central",
           "prices": {
             "diesel": "4.12",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.27",
             "regular": "3.96"
           }
@@ -3020,7 +3020,7 @@
           "name": "western",
           "prices": {
             "diesel": "4.13",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.28",
             "regular": "3.97"
           }
@@ -3029,7 +3029,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "4.17",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.31",
             "regular": "4.00"
           }
@@ -3044,7 +3044,7 @@
           "name": "central",
           "prices": {
             "diesel": "4.10",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.29",
             "regular": "3.99"
           }
@@ -3053,7 +3053,7 @@
           "name": "western",
           "prices": {
             "diesel": "4.10",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.30",
             "regular": "4.00"
           }
@@ -3062,7 +3062,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "4.14",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.33",
             "regular": "4.04"
           }
@@ -3077,7 +3077,7 @@
           "name": "central",
           "prices": {
             "diesel": "4.06",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.26",
             "regular": "3.97"
           }
@@ -3086,7 +3086,7 @@
           "name": "western",
           "prices": {
             "diesel": "4.07",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.27",
             "regular": "3.98"
           }
@@ -3095,7 +3095,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "4.11",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.30",
             "regular": "4.01"
           }
@@ -3110,7 +3110,7 @@
           "name": "central",
           "prices": {
             "diesel": "4.05",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.38",
             "regular": "4.02"
           }
@@ -3119,7 +3119,7 @@
           "name": "western",
           "prices": {
             "diesel": "4.06",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.39",
             "regular": "4.03"
           }
@@ -3128,7 +3128,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "4.09",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.42",
             "regular": "4.06"
           }
@@ -3143,7 +3143,7 @@
           "name": "central",
           "prices": {
             "diesel": "4.07",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.47",
             "regular": "4.09"
           }
@@ -3152,7 +3152,7 @@
           "name": "western",
           "prices": {
             "diesel": "4.08",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.48",
             "regular": "4.10"
           }
@@ -3161,7 +3161,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "4.11",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.51",
             "regular": "4.13"
           }
@@ -3176,7 +3176,7 @@
           "name": "central",
           "prices": {
             "diesel": "4.10",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.52",
             "regular": "4.15"
           }
@@ -3185,7 +3185,7 @@
           "name": "western",
           "prices": {
             "diesel": "4.11",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.53",
             "regular": "4.16"
           }
@@ -3194,7 +3194,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "4.15",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.56",
             "regular": "4.19"
           }
@@ -3209,7 +3209,7 @@
           "name": "central",
           "prices": {
             "diesel": "4.04",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.41",
             "regular": "4.13"
           }
@@ -3218,7 +3218,7 @@
           "name": "western",
           "prices": {
             "diesel": "4.05",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.42",
             "regular": "4.14"
           }
@@ -3227,7 +3227,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "4.08",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.46",
             "regular": "4.18"
           }
@@ -3242,7 +3242,7 @@
           "name": "central",
           "prices": {
             "diesel": "4.01",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.34",
             "regular": "4.14"
           }
@@ -3251,7 +3251,7 @@
           "name": "western",
           "prices": {
             "diesel": "4.02",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.35",
             "regular": "4.15"
           }
@@ -3260,7 +3260,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "4.05",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.38",
             "regular": "4.19"
           }
@@ -3275,7 +3275,7 @@
           "name": "central",
           "prices": {
             "diesel": "4.06",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.44",
             "regular": "4.21"
           }
@@ -3284,7 +3284,7 @@
           "name": "western",
           "prices": {
             "diesel": "4.07",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.45",
             "regular": "4.22"
           }
@@ -3293,7 +3293,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "4.11",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.48",
             "regular": "4.25"
           }
@@ -3308,7 +3308,7 @@
           "name": "central",
           "prices": {
             "diesel": "4.07",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.43",
             "regular": "4.19"
           }
@@ -3317,7 +3317,7 @@
           "name": "western",
           "prices": {
             "diesel": "4.08",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.43",
             "regular": "4.20"
           }
@@ -3326,7 +3326,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "4.11",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.47",
             "regular": "4.23"
           }
@@ -3341,7 +3341,7 @@
           "name": "central",
           "prices": {
             "diesel": "4.04",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.43",
             "regular": "4.18"
           }
@@ -3350,7 +3350,7 @@
           "name": "western",
           "prices": {
             "diesel": "4.05",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.44",
             "regular": "4.19"
           }
@@ -3359,7 +3359,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "4.08",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.47",
             "regular": "4.22"
           }
@@ -3374,7 +3374,7 @@
           "name": "central",
           "prices": {
             "diesel": "4.02",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.51",
             "regular": "4.21"
           }
@@ -3383,7 +3383,7 @@
           "name": "western",
           "prices": {
             "diesel": "4.03",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.52",
             "regular": "4.22"
           }
@@ -3392,7 +3392,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "4.06",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.55",
             "regular": "4.25"
           }
@@ -3407,7 +3407,7 @@
           "name": "central",
           "prices": {
             "diesel": "4.03",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.58",
             "regular": "4.28"
           }
@@ -3416,7 +3416,7 @@
           "name": "western",
           "prices": {
             "diesel": "4.04",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.59",
             "regular": "4.28"
           }
@@ -3425,7 +3425,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "4.07",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.62",
             "regular": "4.32"
           }
@@ -3440,7 +3440,7 @@
           "name": "central",
           "prices": {
             "diesel": "4.07",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.68",
             "regular": "4.32"
           }
@@ -3449,7 +3449,7 @@
           "name": "western",
           "prices": {
             "diesel": "4.08",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.69",
             "regular": "4.33"
           }
@@ -3458,7 +3458,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "4.11",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.72",
             "regular": "4.36"
           }
@@ -3473,7 +3473,7 @@
           "name": "central",
           "prices": {
             "diesel": "4.00",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.55",
             "regular": "4.23"
           }
@@ -3482,7 +3482,7 @@
           "name": "western",
           "prices": {
             "diesel": "4.01",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.56",
             "regular": "4.23"
           }
@@ -3491,7 +3491,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "4.05",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.60",
             "regular": "4.27"
           }
@@ -3506,7 +3506,7 @@
           "name": "central",
           "prices": {
             "diesel": "3.95",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.39",
             "regular": "4.11"
           }
@@ -3515,7 +3515,7 @@
           "name": "western",
           "prices": {
             "diesel": "3.96",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.40",
             "regular": "4.12"
           }
@@ -3524,7 +3524,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "4.00",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.43",
             "regular": "4.15"
           }
@@ -3539,7 +3539,7 @@
           "name": "central",
           "prices": {
             "diesel": "3.96",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.27",
             "regular": "4.04"
           }
@@ -3548,7 +3548,7 @@
           "name": "western",
           "prices": {
             "diesel": "3.97",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.28",
             "regular": "4.05"
           }
@@ -3557,7 +3557,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "4.00",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.31",
             "regular": "4.08"
           }
@@ -3572,7 +3572,7 @@
           "name": "central",
           "prices": {
             "diesel": "3.93",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.22",
             "regular": "4.04"
           }
@@ -3581,7 +3581,7 @@
           "name": "western",
           "prices": {
             "diesel": "3.94",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.23",
             "regular": "4.04"
           }
@@ -3590,7 +3590,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "3.97",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.27",
             "regular": "4.08"
           }
@@ -3605,7 +3605,7 @@
           "name": "central",
           "prices": {
             "diesel": "3.87",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.30",
             "regular": "4.02"
           }
@@ -3614,7 +3614,7 @@
           "name": "western",
           "prices": {
             "diesel": "3.88",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.31",
             "regular": "4.03"
           }
@@ -3623,7 +3623,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "3.91",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.35",
             "regular": "4.07"
           }
@@ -3638,7 +3638,7 @@
           "name": "central",
           "prices": {
             "diesel": "3.79",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.39",
             "regular": "4.00"
           }
@@ -3647,7 +3647,7 @@
           "name": "western",
           "prices": {
             "diesel": "3.80",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.39",
             "regular": "4.01"
           }
@@ -3656,7 +3656,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "3.84",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.43",
             "regular": "4.04"
           }
@@ -3671,7 +3671,7 @@
           "name": "central",
           "prices": {
             "diesel": "3.71",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.28",
             "regular": "3.87"
           }
@@ -3680,7 +3680,7 @@
           "name": "western",
           "prices": {
             "diesel": "3.72",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.28",
             "regular": "3.88"
           }
@@ -3689,7 +3689,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "3.75",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.32",
             "regular": "3.92"
           }
@@ -3704,7 +3704,7 @@
           "name": "central",
           "prices": {
             "diesel": "3.57",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.06",
             "regular": "3.60"
           }
@@ -3713,7 +3713,7 @@
           "name": "western",
           "prices": {
             "diesel": "3.58",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.07",
             "regular": "3.61"
           }
@@ -3722,7 +3722,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "3.61",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "4.10",
             "regular": "3.64"
           }
@@ -3737,7 +3737,7 @@
           "name": "central",
           "prices": {
             "diesel": "3.47",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "3.86",
             "regular": "3.43"
           }
@@ -3746,7 +3746,7 @@
           "name": "western",
           "prices": {
             "diesel": "3.48",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "3.87",
             "regular": "3.44"
           }
@@ -3755,7 +3755,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "3.51",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "3.91",
             "regular": "3.47"
           }
@@ -3770,7 +3770,7 @@
           "name": "central",
           "prices": {
             "diesel": "3.37",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "3.62",
             "regular": "3.33"
           }
@@ -3779,7 +3779,7 @@
           "name": "western",
           "prices": {
             "diesel": "3.38",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "3.62",
             "regular": "3.34"
           }
@@ -3788,7 +3788,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "3.42",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "3.66",
             "regular": "3.37"
           }
@@ -3803,7 +3803,7 @@
           "name": "central",
           "prices": {
             "diesel": "3.19",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "3.31",
             "regular": "3.12"
           }
@@ -3812,7 +3812,7 @@
           "name": "western",
           "prices": {
             "diesel": "3.20",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "3.32",
             "regular": "3.13"
           }
@@ -3821,7 +3821,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "3.23",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "3.36",
             "regular": "3.16"
           }
@@ -3836,7 +3836,7 @@
           "name": "central",
           "prices": {
             "diesel": "2.88",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "2.99",
             "regular": "2.80"
           }
@@ -3845,7 +3845,7 @@
           "name": "western",
           "prices": {
             "diesel": "2.89",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "3.00",
             "regular": "2.80"
           }
@@ -3854,7 +3854,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "2.92",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "3.04",
             "regular": "2.84"
           }
@@ -3869,7 +3869,7 @@
           "name": "central",
           "prices": {
             "diesel": "2.88",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "2.99",
             "regular": "2.80"
           }
@@ -3878,7 +3878,7 @@
           "name": "western",
           "prices": {
             "diesel": "2.89",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "3.00",
             "regular": "2.80"
           }
@@ -3887,7 +3887,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "2.92",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "3.04",
             "regular": "2.84"
           }
@@ -3902,7 +3902,7 @@
           "name": "central",
           "prices": {
             "diesel": "2.70",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "2.81",
             "regular": "2.59"
           }
@@ -3911,7 +3911,7 @@
           "name": "western",
           "prices": {
             "diesel": "2.71",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "2.82",
             "regular": "2.60"
           }
@@ -3920,7 +3920,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "2.74",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "2.85",
             "regular": "2.63"
           }
@@ -3935,7 +3935,7 @@
           "name": "central",
           "prices": {
             "diesel": "2.66",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "2.79",
             "regular": "2.53"
           }
@@ -3944,7 +3944,7 @@
           "name": "western",
           "prices": {
             "diesel": "2.66",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "2.80",
             "regular": "2.54"
           }
@@ -3953,7 +3953,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "2.70",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "2.83",
             "regular": "2.57"
           }
@@ -3968,7 +3968,7 @@
           "name": "central",
           "prices": {
             "diesel": "2.61",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "2.78",
             "regular": "2.56"
           }
@@ -3977,7 +3977,7 @@
           "name": "western",
           "prices": {
             "diesel": "2.62",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "2.79",
             "regular": "2.57"
           }
@@ -3986,7 +3986,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "2.66",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "2.83",
             "regular": "2.60"
           }
@@ -4001,7 +4001,7 @@
           "name": "central",
           "prices": {
             "diesel": "2.70",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "2.90",
             "regular": "2.73"
           }
@@ -4010,7 +4010,7 @@
           "name": "western",
           "prices": {
             "diesel": "2.71",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "2.91",
             "regular": "2.74"
           }
@@ -4019,7 +4019,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "2.75",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "2.94",
             "regular": "2.77"
           }
@@ -4034,7 +4034,7 @@
           "name": "central",
           "prices": {
             "diesel": "2.85",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "3.11",
             "regular": "2.92"
           }
@@ -4043,7 +4043,7 @@
           "name": "western",
           "prices": {
             "diesel": "2.86",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "3.12",
             "regular": "2.93"
           }
@@ -4052,7 +4052,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "2.89",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "3.15",
             "regular": "2.96"
           }
@@ -4067,7 +4067,7 @@
           "name": "central",
           "prices": {
             "diesel": "2.86",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "3.22",
             "regular": "3.01"
           }
@@ -4076,7 +4076,7 @@
           "name": "western",
           "prices": {
             "diesel": "2.87",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "3.23",
             "regular": "3.02"
           }
@@ -4085,7 +4085,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "2.90",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "3.26",
             "regular": "3.05"
           }
@@ -4100,7 +4100,7 @@
           "name": "central",
           "prices": {
             "diesel": "2.73",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "3.20",
             "regular": "3.00"
           }
@@ -4109,7 +4109,7 @@
           "name": "western",
           "prices": {
             "diesel": "2.74",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "3.20",
             "regular": "3.01"
           }
@@ -4118,7 +4118,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "2.77",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "3.24",
             "regular": "3.04"
           }
@@ -4133,7 +4133,7 @@
           "name": "central",
           "prices": {
             "diesel": "2.66",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "3.16",
             "regular": "2.98"
           }
@@ -4142,7 +4142,7 @@
           "name": "western",
           "prices": {
             "diesel": "2.67",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "3.16",
             "regular": "2.99"
           }
@@ -4151,7 +4151,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "2.70",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "3.20",
             "regular": "3.02"
           }
@@ -4166,7 +4166,7 @@
           "name": "central",
           "prices": {
             "diesel": "2.77",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "3.25",
             "regular": "3.04"
           }
@@ -4175,7 +4175,7 @@
           "name": "western",
           "prices": {
             "diesel": "2.78",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "3.26",
             "regular": "3.05"
           }
@@ -4184,7 +4184,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "2.82",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "3.29",
             "regular": "3.08"
           }
@@ -4199,7 +4199,7 @@
           "name": "central",
           "prices": {
             "diesel": "2.90",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "3.46",
             "regular": "3.18"
           }
@@ -4208,7 +4208,7 @@
           "name": "western",
           "prices": {
             "diesel": "2.91",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "3.47",
             "regular": "3.19"
           }
@@ -4217,7 +4217,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "2.94",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "3.51",
             "regular": "3.23"
           }
@@ -4232,7 +4232,7 @@
           "name": "central",
           "prices": {
             "diesel": "2.96",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "3.58",
             "regular": "3.27"
           }
@@ -4241,7 +4241,7 @@
           "name": "western",
           "prices": {
             "diesel": "2.97",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "3.59",
             "regular": "3.28"
           }
@@ -4250,7 +4250,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "3.01",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "3.63",
             "regular": "3.31"
           }
@@ -4265,7 +4265,7 @@
           "name": "central",
           "prices": {
             "diesel": "2.92",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "3.68",
             "regular": "3.29"
           }
@@ -4274,7 +4274,7 @@
           "name": "western",
           "prices": {
             "diesel": "2.93",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "3.69",
             "regular": "3.30"
           }
@@ -4283,7 +4283,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "2.97",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "3.73",
             "regular": "3.33"
           }
@@ -4298,7 +4298,7 @@
           "name": "central",
           "prices": {
             "diesel": "2.84",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "3.81",
             "regular": "3.33"
           }
@@ -4307,7 +4307,7 @@
           "name": "western",
           "prices": {
             "diesel": "2.85",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "3.82",
             "regular": "3.34"
           }
@@ -4316,7 +4316,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "2.88",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "3.85",
             "regular": "3.37"
           }
@@ -4331,7 +4331,7 @@
           "name": "central",
           "prices": {
             "diesel": "2.81",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "3.82",
             "regular": "3.34"
           }
@@ -4340,7 +4340,7 @@
           "name": "western",
           "prices": {
             "diesel": "2.82",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "3.83",
             "regular": "3.35"
           }
@@ -4349,7 +4349,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "2.85",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "3.86",
             "regular": "3.39"
           }
@@ -4364,7 +4364,7 @@
           "name": "central",
           "prices": {
             "diesel": "2.72",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "3.79",
             "regular": "3.30"
           }
@@ -4373,7 +4373,7 @@
           "name": "western",
           "prices": {
             "diesel": "2.73",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "3.80",
             "regular": "3.31"
           }
@@ -4382,7 +4382,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "2.76",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "3.83",
             "regular": "3.34"
           }
@@ -4397,7 +4397,7 @@
           "name": "central",
           "prices": {
             "diesel": "2.62",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "3.64",
             "regular": "3.21"
           }
@@ -4406,7 +4406,7 @@
           "name": "western",
           "prices": {
             "diesel": "2.63",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "3.65",
             "regular": "3.22"
           }
@@ -4415,7 +4415,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "2.66",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "3.69",
             "regular": "3.25"
           }
@@ -4430,7 +4430,7 @@
           "name": "central",
           "prices": {
             "diesel": "2.53",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "3.43",
             "regular": "3.07"
           }
@@ -4439,7 +4439,7 @@
           "name": "western",
           "prices": {
             "diesel": "2.54",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "3.44",
             "regular": "3.08"
           }
@@ -4448,7 +4448,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "2.57",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "3.47",
             "regular": "3.11"
           }
@@ -4463,7 +4463,7 @@
           "name": "central",
           "prices": {
             "diesel": "2.44",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "3.15",
             "regular": "2.90"
           }
@@ -4472,7 +4472,7 @@
           "name": "western",
           "prices": {
             "diesel": "2.45",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "3.16",
             "regular": "2.91"
           }
@@ -4481,7 +4481,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "2.48",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "3.19",
             "regular": "2.95"
           }
@@ -4496,7 +4496,7 @@
           "name": "central",
           "prices": {
             "diesel": "2.45",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "2.93",
             "regular": "2.74"
           }
@@ -4505,7 +4505,7 @@
           "name": "western",
           "prices": {
             "diesel": "2.46",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "2.94",
             "regular": "2.75"
           }
@@ -4514,7 +4514,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "2.49",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "2.98",
             "regular": "2.78"
           }
@@ -4529,7 +4529,7 @@
           "name": "central",
           "prices": {
             "diesel": "2.46",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "2.87",
             "regular": "2.67"
           }
@@ -4538,7 +4538,7 @@
           "name": "western",
           "prices": {
             "diesel": "2.47",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "2.88",
             "regular": "2.68"
           }
@@ -4547,7 +4547,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "2.51",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "2.92",
             "regular": "2.71"
           }
@@ -4562,7 +4562,7 @@
           "name": "central",
           "prices": {
             "diesel": "2.47",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "2.84",
             "regular": "2.65"
           }
@@ -4571,7 +4571,7 @@
           "name": "western",
           "prices": {
             "diesel": "2.48",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "2.85",
             "regular": "2.66"
           }
@@ -4580,7 +4580,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "2.51",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "2.89",
             "regular": "2.70"
           }
@@ -4595,7 +4595,7 @@
           "name": "central",
           "prices": {
             "diesel": "2.46",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "2.80",
             "regular": "2.60"
           }
@@ -4604,7 +4604,7 @@
           "name": "western",
           "prices": {
             "diesel": "2.47",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "2.81",
             "regular": "2.61"
           }
@@ -4613,7 +4613,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "2.50",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "2.84",
             "regular": "2.64"
           }
@@ -4628,7 +4628,7 @@
           "name": "central",
           "prices": {
             "diesel": "2.43",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "2.79",
             "regular": "2.57"
           }
@@ -4637,7 +4637,7 @@
           "name": "western",
           "prices": {
             "diesel": "2.44",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "2.79",
             "regular": "2.58"
           }
@@ -4646,7 +4646,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "2.47",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "2.83",
             "regular": "2.62"
           }
@@ -4661,7 +4661,7 @@
           "name": "central",
           "prices": {
             "diesel": "2.39",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "2.74",
             "regular": "2.54"
           }
@@ -4670,7 +4670,7 @@
           "name": "western",
           "prices": {
             "diesel": "2.40",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "2.75",
             "regular": "2.55"
           }
@@ -4679,7 +4679,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "2.43",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "2.78",
             "regular": "2.58"
           }
@@ -4694,7 +4694,7 @@
           "name": "central",
           "prices": {
             "diesel": "2.26",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "2.66",
             "regular": "2.48"
           }
@@ -4703,7 +4703,7 @@
           "name": "western",
           "prices": {
             "diesel": "2.27",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "2.66",
             "regular": "2.49"
           }
@@ -4712,7 +4712,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "2.30",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "2.70",
             "regular": "2.52"
           }
@@ -4727,7 +4727,7 @@
           "name": "central",
           "prices": {
             "diesel": "2.09",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "2.62",
             "regular": "2.47"
           }
@@ -4736,7 +4736,7 @@
           "name": "western",
           "prices": {
             "diesel": "2.09",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "2.63",
             "regular": "2.48"
           }
@@ -4745,7 +4745,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "2.13",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "2.66",
             "regular": "2.52"
           }
@@ -4760,7 +4760,7 @@
           "name": "central",
           "prices": {
             "diesel": "2.09",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "2.62",
             "regular": "2.47"
           }
@@ -4769,7 +4769,7 @@
           "name": "western",
           "prices": {
             "diesel": "2.09",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "2.63",
             "regular": "2.48"
           }
@@ -4778,7 +4778,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "2.13",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "2.66",
             "regular": "2.52"
           }
@@ -4793,7 +4793,7 @@
           "name": "central",
           "prices": {
             "diesel": "2.01",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "2.62",
             "regular": "2.46"
           }
@@ -4802,7 +4802,7 @@
           "name": "western",
           "prices": {
             "diesel": "2.02",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "2.63",
             "regular": "2.47"
           }
@@ -4811,7 +4811,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "2.06",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "2.67",
             "regular": "2.51"
           }
@@ -4826,7 +4826,7 @@
           "name": "central",
           "prices": {
             "diesel": "1.98",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "2.56",
             "regular": "2.37"
           }
@@ -4835,7 +4835,7 @@
           "name": "western",
           "prices": {
             "diesel": "1.99",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "2.57",
             "regular": "2.38"
           }
@@ -4844,7 +4844,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "2.02",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "2.61",
             "regular": "2.42"
           }
@@ -4859,7 +4859,7 @@
           "name": "central",
           "prices": {
             "diesel": "1.90",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "2.49",
             "regular": "2.29"
           }
@@ -4868,7 +4868,7 @@
           "name": "western",
           "prices": {
             "diesel": "1.91",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "2.50",
             "regular": "2.30"
           }
@@ -4877,7 +4877,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "1.94",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "2.53",
             "regular": "2.33"
           }
@@ -4892,7 +4892,7 @@
           "name": "central",
           "prices": {
             "diesel": "1.88",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "2.43",
             "regular": "2.22"
           }
@@ -4901,7 +4901,7 @@
           "name": "western",
           "prices": {
             "diesel": "1.89",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "2.44",
             "regular": "2.23"
           }
@@ -4910,7 +4910,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "1.93",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "2.47",
             "regular": "2.26"
           }
@@ -4925,7 +4925,7 @@
           "name": "central",
           "prices": {
             "diesel": "1.90",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "2.40",
             "regular": "2.20"
           }
@@ -4934,7 +4934,7 @@
           "name": "western",
           "prices": {
             "diesel": "1.91",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "2.41",
             "regular": "2.21"
           }
@@ -4943,7 +4943,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "1.94",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "2.45",
             "regular": "2.25"
           }
@@ -4958,7 +4958,7 @@
           "name": "central",
           "prices": {
             "diesel": "1.94",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "2.48",
             "regular": "2.31"
           }
@@ -4967,7 +4967,7 @@
           "name": "western",
           "prices": {
             "diesel": "1.95",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "2.49",
             "regular": "2.32"
           }
@@ -4976,7 +4976,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "1.98",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "2.52",
             "regular": "2.35"
           }
@@ -4991,7 +4991,7 @@
           "name": "central",
           "prices": {
             "diesel": "2.01",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "2.66",
             "regular": "2.49"
           }
@@ -5000,7 +5000,7 @@
           "name": "western",
           "prices": {
             "diesel": "2.01",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "2.67",
             "regular": "2.49"
           }
@@ -5009,7 +5009,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "2.05",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "2.71",
             "regular": "2.53"
           }
@@ -5024,7 +5024,7 @@
           "name": "central",
           "prices": {
             "diesel": "1.99",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "2.77",
             "regular": "2.58"
           }
@@ -5033,7 +5033,7 @@
           "name": "western",
           "prices": {
             "diesel": "2.00",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "2.78",
             "regular": "2.59"
           }
@@ -5042,7 +5042,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "2.03",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "2.81",
             "regular": "2.63"
           }
@@ -5057,7 +5057,7 @@
           "name": "central",
           "prices": {
             "diesel": "2.06",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "2.80",
             "regular": "2.62"
           }
@@ -5066,7 +5066,7 @@
           "name": "western",
           "prices": {
             "diesel": "2.07",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "2.81",
             "regular": "2.63"
           }
@@ -5075,7 +5075,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "2.10",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "2.84",
             "regular": "2.66"
           }
@@ -5090,7 +5090,7 @@
           "name": "central",
           "prices": {
             "diesel": "2.19",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "2.91",
             "regular": "2.71"
           }
@@ -5099,7 +5099,7 @@
           "name": "western",
           "prices": {
             "diesel": "2.20",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "2.92",
             "regular": "2.72"
           }
@@ -5108,7 +5108,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "2.24",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "2.96",
             "regular": "2.76"
           }
@@ -5123,7 +5123,7 @@
           "name": "central",
           "prices": {
             "diesel": "2.27",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "2.95",
             "regular": "2.75"
           }
@@ -5132,7 +5132,7 @@
           "name": "western",
           "prices": {
             "diesel": "2.28",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "2.96",
             "regular": "2.76"
           }
@@ -5141,7 +5141,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "2.32",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "3.00",
             "regular": "2.80"
           }
@@ -5156,7 +5156,7 @@
           "name": "central",
           "prices": {
             "diesel": "2.35",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "3.00",
             "regular": "2.81"
           }
@@ -5165,7 +5165,7 @@
           "name": "western",
           "prices": {
             "diesel": "2.36",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "3.01",
             "regular": "2.82"
           }
@@ -5174,7 +5174,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "2.40",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "3.04",
             "regular": "2.87"
           }
@@ -5189,7 +5189,7 @@
           "name": "central",
           "prices": {
             "diesel": "2.41",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "3.01",
             "regular": "2.84"
           }
@@ -5198,7 +5198,7 @@
           "name": "western",
           "prices": {
             "diesel": "2.42",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "3.02",
             "regular": "2.85"
           }
@@ -5207,7 +5207,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "2.46",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "3.06",
             "regular": "2.90"
           }
@@ -5222,7 +5222,7 @@
           "name": "central",
           "prices": {
             "diesel": "2.41",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "2.97",
             "regular": "2.80"
           }
@@ -5231,7 +5231,7 @@
           "name": "western",
           "prices": {
             "diesel": "2.42",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "2.98",
             "regular": "2.81"
           }
@@ -5240,7 +5240,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "2.45",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "3.02",
             "regular": "2.86"
           }
@@ -5255,7 +5255,7 @@
           "name": "central",
           "prices": {
             "diesel": "2.34",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "2.91",
             "regular": "2.74"
           }
@@ -5264,7 +5264,7 @@
           "name": "western",
           "prices": {
             "diesel": "2.35",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "2.92",
             "regular": "2.75"
           }
@@ -5273,7 +5273,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "2.39",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "2.95",
             "regular": "2.79"
           }
@@ -5288,7 +5288,7 @@
           "name": "central",
           "prices": {
             "diesel": "2.23",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "2.81",
             "regular": "2.65"
           }
@@ -5297,7 +5297,7 @@
           "name": "western",
           "prices": {
             "diesel": "2.24",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "2.82",
             "regular": "2.66"
           }
@@ -5306,7 +5306,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "2.27",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "2.86",
             "regular": "2.70"
           }
@@ -5321,7 +5321,7 @@
           "name": "central",
           "prices": {
             "diesel": "2.18",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "2.79",
             "regular": "2.64"
           }
@@ -5330,7 +5330,7 @@
           "name": "western",
           "prices": {
             "diesel": "2.19",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "2.79",
             "regular": "2.65"
           }
@@ -5339,7 +5339,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "2.22",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "2.83",
             "regular": "2.70"
           }
@@ -5354,7 +5354,7 @@
           "name": "central",
           "prices": {
             "diesel": "2.28",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "2.88",
             "regular": "2.74"
           }
@@ -5363,7 +5363,7 @@
           "name": "western",
           "prices": {
             "diesel": "2.29",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "2.89",
             "regular": "2.74"
           }
@@ -5372,7 +5372,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "2.33",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "2.92",
             "regular": "2.79"
           }
@@ -5387,7 +5387,7 @@
           "name": "central",
           "prices": {
             "diesel": "2.36",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "2.90",
             "regular": "2.77"
           }
@@ -5396,7 +5396,7 @@
           "name": "western",
           "prices": {
             "diesel": "2.37",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "2.91",
             "regular": "2.77"
           }
@@ -5405,7 +5405,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "2.40",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "2.96",
             "regular": "2.81"
           }
@@ -5420,7 +5420,7 @@
           "name": "central",
           "prices": {
             "diesel": "2.31",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "2.86",
             "regular": "2.70"
           }
@@ -5429,7 +5429,7 @@
           "name": "western",
           "prices": {
             "diesel": "2.32",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "2.87",
             "regular": "2.71"
           }
@@ -5438,7 +5438,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "2.35",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "2.92",
             "regular": "2.74"
           }
@@ -5453,7 +5453,7 @@
           "name": "central",
           "prices": {
             "diesel": "2.36",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "2.96",
             "regular": "2.75"
           }
@@ -5462,7 +5462,7 @@
           "name": "western",
           "prices": {
             "diesel": "2.37",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "2.97",
             "regular": "2.76"
           }
@@ -5471,7 +5471,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "2.40",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "3.02",
             "regular": "2.80"
           }
@@ -5486,7 +5486,7 @@
           "name": "central",
           "prices": {
             "diesel": "2.44",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "3.02",
             "regular": "2.81"
           }
@@ -5495,7 +5495,7 @@
           "name": "western",
           "prices": {
             "diesel": "2.45",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "3.03",
             "regular": "2.82"
           }
@@ -5504,7 +5504,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "2.48",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "3.06",
             "regular": "2.85"
           }
@@ -5519,7 +5519,7 @@
           "name": "central",
           "prices": {
             "diesel": "2.43",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "2.98",
             "regular": "2.78"
           }
@@ -5528,7 +5528,7 @@
           "name": "western",
           "prices": {
             "diesel": "2.44",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "2.99",
             "regular": "2.78"
           }
@@ -5537,7 +5537,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "2.48",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "3.03",
             "regular": "2.82"
           }
@@ -5552,7 +5552,7 @@
           "name": "central",
           "prices": {
             "diesel": "2.35",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "2.85",
             "regular": "2.64"
           }
@@ -5561,7 +5561,7 @@
           "name": "western",
           "prices": {
             "diesel": "2.36",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "2.86",
             "regular": "2.65"
           }
@@ -5570,7 +5570,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "2.39",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "2.91",
             "regular": "2.68"
           }
@@ -5585,7 +5585,7 @@
           "name": "central",
           "prices": {
             "diesel": "2.32",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "2.83",
             "regular": "2.61"
           }
@@ -5594,7 +5594,7 @@
           "name": "western",
           "prices": {
             "diesel": "2.33",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "2.84",
             "regular": "2.62"
           }
@@ -5603,7 +5603,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "2.36",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "2.87",
             "regular": "2.65"
           }
@@ -5618,7 +5618,7 @@
           "name": "central",
           "prices": {
             "diesel": "2.42",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "2.99",
             "regular": "2.77"
           }
@@ -5627,7 +5627,7 @@
           "name": "western",
           "prices": {
             "diesel": "2.43",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "2.99",
             "regular": "2.78"
           }
@@ -5636,7 +5636,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "2.46",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "3.03",
             "regular": "2.81"
           }
@@ -5651,7 +5651,7 @@
           "name": "central",
           "prices": {
             "diesel": "2.42",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "2.99",
             "regular": "2.77"
           }
@@ -5660,7 +5660,7 @@
           "name": "western",
           "prices": {
             "diesel": "2.43",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "2.99",
             "regular": "2.78"
           }
@@ -5669,7 +5669,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "2.46",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "3.03",
             "regular": "2.81"
           }
@@ -5684,7 +5684,7 @@
           "name": "central",
           "prices": {
             "diesel": "2.49",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "3.09",
             "regular": "2.90"
           }
@@ -5693,7 +5693,7 @@
           "name": "western",
           "prices": {
             "diesel": "2.50",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "3.09",
             "regular": "2.91"
           }
@@ -5702,7 +5702,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "2.54",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "3.13",
             "regular": "2.94"
           }
@@ -5717,7 +5717,7 @@
           "name": "central",
           "prices": {
             "diesel": "2.54",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "3.13",
             "regular": "2.96"
           }
@@ -5726,7 +5726,7 @@
           "name": "western",
           "prices": {
             "diesel": "2.55",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "3.14",
             "regular": "2.97"
           }
@@ -5735,7 +5735,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "2.58",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "3.17",
             "regular": "3.00"
           }
@@ -5750,7 +5750,7 @@
           "name": "central",
           "prices": {
             "diesel": "2.53",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "3.11",
             "regular": "2.90"
           }
@@ -5759,7 +5759,7 @@
           "name": "western",
           "prices": {
             "diesel": "2.54",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "3.11",
             "regular": "2.91"
           }
@@ -5768,7 +5768,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "2.57",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "3.15",
             "regular": "2.95"
           }
@@ -5783,7 +5783,7 @@
           "name": "central",
           "prices": {
             "diesel": "2.53",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "3.06",
             "regular": "2.86"
           }
@@ -5792,7 +5792,7 @@
           "name": "western",
           "prices": {
             "diesel": "2.54",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "3.07",
             "regular": "2.87"
           }
@@ -5801,7 +5801,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "2.58",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "3.10",
             "regular": "2.91"
           }
@@ -5816,7 +5816,7 @@
           "name": "central",
           "prices": {
             "diesel": "2.55",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "3.04",
             "regular": "2.86"
           }
@@ -5825,7 +5825,7 @@
           "name": "western",
           "prices": {
             "diesel": "2.56",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "3.05",
             "regular": "2.87"
           }
@@ -5834,7 +5834,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "2.59",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "3.08",
             "regular": "2.91"
           }
@@ -5849,7 +5849,7 @@
           "name": "central",
           "prices": {
             "diesel": "2.53",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "3.05",
             "regular": "2.86"
           }
@@ -5858,7 +5858,7 @@
           "name": "western",
           "prices": {
             "diesel": "2.54",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "3.06",
             "regular": "2.87"
           }
@@ -5867,7 +5867,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "2.58",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "3.10",
             "regular": "2.91"
           }
@@ -5882,7 +5882,7 @@
           "name": "central",
           "prices": {
             "diesel": "2.45",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "3.03",
             "regular": "2.84"
           }
@@ -5891,7 +5891,7 @@
           "name": "western",
           "prices": {
             "diesel": "2.46",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "3.04",
             "regular": "2.85"
           }
@@ -5900,7 +5900,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "2.49",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "3.07",
             "regular": "2.89"
           }
@@ -5915,7 +5915,7 @@
           "name": "central",
           "prices": {
             "diesel": "2.42",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "3.05",
             "regular": "2.88"
           }
@@ -5924,7 +5924,7 @@
           "name": "western",
           "prices": {
             "diesel": "2.43",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "3.06",
             "regular": "2.89"
           }
@@ -5933,7 +5933,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "2.47",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "3.10",
             "regular": "2.93"
           }
@@ -5948,7 +5948,7 @@
           "name": "central",
           "prices": {
             "diesel": "2.50",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "3.17",
             "regular": "2.99"
           }
@@ -5957,7 +5957,7 @@
           "name": "western",
           "prices": {
             "diesel": "2.51",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "3.18",
             "regular": "2.99"
           }
@@ -5966,7 +5966,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "2.54",
-            "diesel_low_sulfur": "",
+            "diesel-low-sulfur": "",
             "premium": "3.21",
             "regular": "3.03"
           }
@@ -5981,7 +5981,7 @@
           "name": "central",
           "prices": {
             "diesel": "2.46",
-            "diesel_low_sulfur": "2.56",
+            "diesel-low-sulfur": "2.56",
             "premium": "3.12",
             "regular": "2.91"
           }
@@ -5990,7 +5990,7 @@
           "name": "western",
           "prices": {
             "diesel": "2.47",
-            "diesel_low_sulfur": "2.57",
+            "diesel-low-sulfur": "2.57",
             "premium": "3.12",
             "regular": "2.92"
           }
@@ -5999,7 +5999,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "2.50",
-            "diesel_low_sulfur": "2.60",
+            "diesel-low-sulfur": "2.60",
             "premium": "3.16",
             "regular": "2.95"
           }
@@ -6014,7 +6014,7 @@
           "name": "central",
           "prices": {
             "diesel": "2.38",
-            "diesel_low_sulfur": "2.48",
+            "diesel-low-sulfur": "2.48",
             "premium": "3.06",
             "regular": "2.82"
           }
@@ -6023,7 +6023,7 @@
           "name": "western",
           "prices": {
             "diesel": "2.39",
-            "diesel_low_sulfur": "2.49",
+            "diesel-low-sulfur": "2.49",
             "premium": "3.07",
             "regular": "2.82"
           }
@@ -6032,7 +6032,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "2.43",
-            "diesel_low_sulfur": "2.52",
+            "diesel-low-sulfur": "2.52",
             "premium": "3.11",
             "regular": "2.86"
           }
@@ -6047,7 +6047,7 @@
           "name": "central",
           "prices": {
             "diesel": "2.42",
-            "diesel_low_sulfur": "2.52",
+            "diesel-low-sulfur": "2.52",
             "premium": "3.13",
             "regular": "2.88"
           }
@@ -6056,7 +6056,7 @@
           "name": "western",
           "prices": {
             "diesel": "2.43",
-            "diesel_low_sulfur": "2.52",
+            "diesel-low-sulfur": "2.52",
             "premium": "3.14",
             "regular": "2.89"
           }
@@ -6065,7 +6065,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "2.47",
-            "diesel_low_sulfur": "2.56",
+            "diesel-low-sulfur": "2.56",
             "premium": "3.18",
             "regular": "2.92"
           }
@@ -6080,7 +6080,7 @@
           "name": "central",
           "prices": {
             "diesel": "2.37",
-            "diesel_low_sulfur": "2.47",
+            "diesel-low-sulfur": "2.47",
             "premium": "3.05",
             "regular": "2.84"
           }
@@ -6089,7 +6089,7 @@
           "name": "western",
           "prices": {
             "diesel": "2.38",
-            "diesel_low_sulfur": "2.48",
+            "diesel-low-sulfur": "2.48",
             "premium": "3.06",
             "regular": "2.85"
           }
@@ -6098,7 +6098,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "2.42",
-            "diesel_low_sulfur": "2.51",
+            "diesel-low-sulfur": "2.51",
             "premium": "3.09",
             "regular": "2.89"
           }
@@ -6113,7 +6113,7 @@
           "name": "central",
           "prices": {
             "diesel": "2.29",
-            "diesel_low_sulfur": "2.39",
+            "diesel-low-sulfur": "2.39",
             "premium": "2.93",
             "regular": "2.76"
           }
@@ -6122,7 +6122,7 @@
           "name": "western",
           "prices": {
             "diesel": "2.29",
-            "diesel_low_sulfur": "2.40",
+            "diesel-low-sulfur": "2.40",
             "premium": "2.94",
             "regular": "2.77"
           }
@@ -6131,7 +6131,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "2.33",
-            "diesel_low_sulfur": "2.43",
+            "diesel-low-sulfur": "2.43",
             "premium": "2.97",
             "regular": "2.80"
           }
@@ -6146,7 +6146,7 @@
           "name": "central",
           "prices": {
             "diesel": "2.30",
-            "diesel_low_sulfur": "2.41",
+            "diesel-low-sulfur": "2.41",
             "premium": "2.94",
             "regular": "2.78"
           }
@@ -6155,7 +6155,7 @@
           "name": "western",
           "prices": {
             "diesel": "2.31",
-            "diesel_low_sulfur": "2.42",
+            "diesel-low-sulfur": "2.42",
             "premium": "2.95",
             "regular": "2.79"
           }
@@ -6164,7 +6164,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "2.34",
-            "diesel_low_sulfur": "2.46",
+            "diesel-low-sulfur": "2.46",
             "premium": "2.98",
             "regular": "2.83"
           }
@@ -6179,7 +6179,7 @@
           "name": "central",
           "prices": {
             "diesel": "2.39",
-            "diesel_low_sulfur": "2.51",
+            "diesel-low-sulfur": "2.51",
             "premium": "3.04",
             "regular": "2.87"
           }
@@ -6188,7 +6188,7 @@
           "name": "western",
           "prices": {
             "diesel": "2.40",
-            "diesel_low_sulfur": "2.51",
+            "diesel-low-sulfur": "2.51",
             "premium": "3.05",
             "regular": "2.88"
           }
@@ -6197,7 +6197,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "2.43",
-            "diesel_low_sulfur": "2.55",
+            "diesel-low-sulfur": "2.55",
             "premium": "3.08",
             "regular": "2.91"
           }
@@ -6212,7 +6212,7 @@
           "name": "central",
           "prices": {
             "diesel": "2.46",
-            "diesel_low_sulfur": "2.60",
+            "diesel-low-sulfur": "2.60",
             "premium": "3.14",
             "regular": "2.93"
           }
@@ -6221,7 +6221,7 @@
           "name": "western",
           "prices": {
             "diesel": "2.47",
-            "diesel_low_sulfur": "2.60",
+            "diesel-low-sulfur": "2.60",
             "premium": "3.15",
             "regular": "2.94"
           }
@@ -6230,7 +6230,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "2.51",
-            "diesel_low_sulfur": "2.64",
+            "diesel-low-sulfur": "2.64",
             "premium": "3.18",
             "regular": "2.98"
           }
@@ -6245,7 +6245,7 @@
           "name": "central",
           "prices": {
             "diesel": "2.49",
-            "diesel_low_sulfur": "2.62",
+            "diesel-low-sulfur": "2.62",
             "premium": "3.15",
             "regular": "2.95"
           }
@@ -6254,7 +6254,7 @@
           "name": "western",
           "prices": {
             "diesel": "2.50",
-            "diesel_low_sulfur": "2.63",
+            "diesel-low-sulfur": "2.63",
             "premium": "3.15",
             "regular": "2.95"
           }
@@ -6263,7 +6263,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "2.53",
-            "diesel_low_sulfur": "2.67",
+            "diesel-low-sulfur": "2.67",
             "premium": "3.19",
             "regular": "2.99"
           }
@@ -6278,7 +6278,7 @@
           "name": "central",
           "prices": {
             "diesel": "2.54",
-            "diesel_low_sulfur": "2.70",
+            "diesel-low-sulfur": "2.70",
             "premium": "3.34",
             "regular": "3.07"
           }
@@ -6287,7 +6287,7 @@
           "name": "western",
           "prices": {
             "diesel": "2.55",
-            "diesel_low_sulfur": "2.71",
+            "diesel-low-sulfur": "2.71",
             "premium": "3.34",
             "regular": "3.08"
           }
@@ -6296,7 +6296,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "2.59",
-            "diesel_low_sulfur": "2.74",
+            "diesel-low-sulfur": "2.74",
             "premium": "3.38",
             "regular": "3.12"
           }
@@ -6311,7 +6311,7 @@
           "name": "central",
           "prices": {
             "diesel": "2.64",
-            "diesel_low_sulfur": "2.81",
+            "diesel-low-sulfur": "2.81",
             "premium": "3.50",
             "regular": "3.14"
           }
@@ -6320,7 +6320,7 @@
           "name": "western",
           "prices": {
             "diesel": "2.65",
-            "diesel_low_sulfur": "2.82",
+            "diesel-low-sulfur": "2.82",
             "premium": "3.51",
             "regular": "3.15"
           }
@@ -6329,7 +6329,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "2.68",
-            "diesel_low_sulfur": "2.85",
+            "diesel-low-sulfur": "2.85",
             "premium": "3.54",
             "regular": "3.18"
           }
@@ -6344,7 +6344,7 @@
           "name": "central",
           "prices": {
             "diesel": "2.65",
-            "diesel_low_sulfur": "2.81",
+            "diesel-low-sulfur": "2.81",
             "premium": "3.29",
             "regular": "3.01"
           }
@@ -6353,7 +6353,7 @@
           "name": "western",
           "prices": {
             "diesel": "2.66",
-            "diesel_low_sulfur": "2.82",
+            "diesel-low-sulfur": "2.82",
             "premium": "3.30",
             "regular": "3.02"
           }
@@ -6362,7 +6362,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "2.69",
-            "diesel_low_sulfur": "2.85",
+            "diesel-low-sulfur": "2.85",
             "premium": "3.33",
             "regular": "3.05"
           }
@@ -6377,7 +6377,7 @@
           "name": "central",
           "prices": {
             "diesel": "2.63",
-            "diesel_low_sulfur": "2.79",
+            "diesel-low-sulfur": "2.79",
             "premium": "3.14",
             "regular": "2.95"
           }
@@ -6386,7 +6386,7 @@
           "name": "western",
           "prices": {
             "diesel": "2.64",
-            "diesel_low_sulfur": "2.80",
+            "diesel-low-sulfur": "2.80",
             "premium": "3.14",
             "regular": "2.96"
           }
@@ -6395,7 +6395,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "2.67",
-            "diesel_low_sulfur": "2.84",
+            "diesel-low-sulfur": "2.84",
             "premium": "3.18",
             "regular": "2.99"
           }
@@ -6410,7 +6410,7 @@
           "name": "central",
           "prices": {
             "diesel": "2.69",
-            "diesel_low_sulfur": "2.81",
+            "diesel-low-sulfur": "2.81",
             "premium": "3.19",
             "regular": "3.00"
           }
@@ -6419,7 +6419,7 @@
           "name": "western",
           "prices": {
             "diesel": "2.70",
-            "diesel_low_sulfur": "2.82",
+            "diesel-low-sulfur": "2.82",
             "premium": "3.20",
             "regular": "3.01"
           }
@@ -6428,7 +6428,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "2.73",
-            "diesel_low_sulfur": "2.85",
+            "diesel-low-sulfur": "2.85",
             "premium": "3.23",
             "regular": "3.04"
           }
@@ -6443,7 +6443,7 @@
           "name": "central",
           "prices": {
             "diesel": "2.78",
-            "diesel_low_sulfur": "2.88",
+            "diesel-low-sulfur": "2.88",
             "premium": "3.26",
             "regular": "3.07"
           }
@@ -6452,7 +6452,7 @@
           "name": "western",
           "prices": {
             "diesel": "2.79",
-            "diesel_low_sulfur": "2.88",
+            "diesel-low-sulfur": "2.88",
             "premium": "3.27",
             "regular": "3.08"
           }
@@ -6461,7 +6461,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "2.82",
-            "diesel_low_sulfur": "2.92",
+            "diesel-low-sulfur": "2.92",
             "premium": "3.30",
             "regular": "3.12"
           }
@@ -6476,7 +6476,7 @@
           "name": "central",
           "prices": {
             "diesel": "2.85",
-            "diesel_low_sulfur": "2.95",
+            "diesel-low-sulfur": "2.95",
             "premium": "3.28",
             "regular": "3.13"
           }
@@ -6485,7 +6485,7 @@
           "name": "western",
           "prices": {
             "diesel": "2.86",
-            "diesel_low_sulfur": "2.95",
+            "diesel-low-sulfur": "2.95",
             "premium": "3.29",
             "regular": "3.14"
           }
@@ -6494,7 +6494,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "2.89",
-            "diesel_low_sulfur": "2.99",
+            "diesel-low-sulfur": "2.99",
             "premium": "3.33",
             "regular": "3.18"
           }
@@ -6509,7 +6509,7 @@
           "name": "central",
           "prices": {
             "diesel": "2.86",
-            "diesel_low_sulfur": "2.96",
+            "diesel-low-sulfur": "2.96",
             "premium": "3.26",
             "regular": "3.11"
           }
@@ -6518,7 +6518,7 @@
           "name": "western",
           "prices": {
             "diesel": "2.87",
-            "diesel_low_sulfur": "2.97",
+            "diesel-low-sulfur": "2.97",
             "premium": "3.27",
             "regular": "3.12"
           }
@@ -6527,7 +6527,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "2.91",
-            "diesel_low_sulfur": "3.00",
+            "diesel-low-sulfur": "3.00",
             "premium": "3.32",
             "regular": "3.16"
           }
@@ -6542,7 +6542,7 @@
           "name": "central",
           "prices": {
             "diesel": "2.86",
-            "diesel_low_sulfur": "2.96",
+            "diesel-low-sulfur": "2.96",
             "premium": "3.26",
             "regular": "3.11"
           }
@@ -6551,7 +6551,7 @@
           "name": "western",
           "prices": {
             "diesel": "2.87",
-            "diesel_low_sulfur": "2.97",
+            "diesel-low-sulfur": "2.97",
             "premium": "3.27",
             "regular": "3.12"
           }
@@ -6560,7 +6560,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "2.91",
-            "diesel_low_sulfur": "3.00",
+            "diesel-low-sulfur": "3.00",
             "premium": "3.32",
             "regular": "3.16"
           }
@@ -6575,7 +6575,7 @@
           "name": "central",
           "prices": {
             "diesel": "2.90",
-            "diesel_low_sulfur": "2.99",
+            "diesel-low-sulfur": "2.99",
             "premium": "3.28",
             "regular": "3.12"
           }
@@ -6584,7 +6584,7 @@
           "name": "western",
           "prices": {
             "diesel": "2.91",
-            "diesel_low_sulfur": "3.00",
+            "diesel-low-sulfur": "3.00",
             "premium": "3.29",
             "regular": "3.13"
           }
@@ -6593,7 +6593,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "2.95",
-            "diesel_low_sulfur": "3.03",
+            "diesel-low-sulfur": "3.03",
             "premium": "3.34",
             "regular": "3.17"
           }
@@ -6608,7 +6608,7 @@
           "name": "central",
           "prices": {
             "diesel": "2.98",
-            "diesel_low_sulfur": "3.07",
+            "diesel-low-sulfur": "3.07",
             "premium": "3.38",
             "regular": "3.20"
           }
@@ -6617,7 +6617,7 @@
           "name": "western",
           "prices": {
             "diesel": "2.99",
-            "diesel_low_sulfur": "3.08",
+            "diesel-low-sulfur": "3.08",
             "premium": "3.39",
             "regular": "3.21"
           }
@@ -6626,7 +6626,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "3.03",
-            "diesel_low_sulfur": "3.11",
+            "diesel-low-sulfur": "3.11",
             "premium": "3.43",
             "regular": "3.25"
           }
@@ -6641,7 +6641,7 @@
           "name": "central",
           "prices": {
             "diesel": "3.04",
-            "diesel_low_sulfur": "3.13",
+            "diesel-low-sulfur": "3.13",
             "premium": "3.48",
             "regular": "3.29"
           }
@@ -6650,7 +6650,7 @@
           "name": "western",
           "prices": {
             "diesel": "3.04",
-            "diesel_low_sulfur": "3.14",
+            "diesel-low-sulfur": "3.14",
             "premium": "3.49",
             "regular": "3.30"
           }
@@ -6659,7 +6659,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "3.08",
-            "diesel_low_sulfur": "3.17",
+            "diesel-low-sulfur": "3.17",
             "premium": "3.53",
             "regular": "3.33"
           }
@@ -6674,7 +6674,7 @@
           "name": "central",
           "prices": {
             "diesel": "3.00",
-            "diesel_low_sulfur": "3.12",
+            "diesel-low-sulfur": "3.12",
             "premium": "3.52",
             "regular": "3.32"
           }
@@ -6683,7 +6683,7 @@
           "name": "western",
           "prices": {
             "diesel": "3.01",
-            "diesel_low_sulfur": "3.13",
+            "diesel-low-sulfur": "3.13",
             "premium": "3.53",
             "regular": "3.33"
           }
@@ -6692,7 +6692,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "3.05",
-            "diesel_low_sulfur": "3.17",
+            "diesel-low-sulfur": "3.17",
             "premium": "3.58",
             "regular": "3.36"
           }
@@ -6707,7 +6707,7 @@
           "name": "central",
           "prices": {
             "diesel": "2.90",
-            "diesel_low_sulfur": "3.04",
+            "diesel-low-sulfur": "3.04",
             "premium": "3.46",
             "regular": "3.24"
           }
@@ -6716,7 +6716,7 @@
           "name": "western",
           "prices": {
             "diesel": "2.91",
-            "diesel_low_sulfur": "3.05",
+            "diesel-low-sulfur": "3.05",
             "premium": "3.46",
             "regular": "3.25"
           }
@@ -6725,7 +6725,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "2.95",
-            "diesel_low_sulfur": "3.08",
+            "diesel-low-sulfur": "3.08",
             "premium": "3.51",
             "regular": "3.28"
           }
@@ -6740,7 +6740,7 @@
           "name": "central",
           "prices": {
             "diesel": "2.86",
-            "diesel_low_sulfur": "2.98",
+            "diesel-low-sulfur": "2.98",
             "premium": "3.41",
             "regular": "3.20"
           }
@@ -6749,7 +6749,7 @@
           "name": "western",
           "prices": {
             "diesel": "2.87",
-            "diesel_low_sulfur": "2.99",
+            "diesel-low-sulfur": "2.99",
             "premium": "3.42",
             "regular": "3.21"
           }
@@ -6758,7 +6758,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "2.90",
-            "diesel_low_sulfur": "3.02",
+            "diesel-low-sulfur": "3.02",
             "premium": "3.45",
             "regular": "3.25"
           }
@@ -6773,7 +6773,7 @@
           "name": "central",
           "prices": {
             "diesel": "2.89",
-            "diesel_low_sulfur": "2.99",
+            "diesel-low-sulfur": "2.99",
             "premium": "3.46",
             "regular": "3.26"
           }
@@ -6782,7 +6782,7 @@
           "name": "western",
           "prices": {
             "diesel": "2.90",
-            "diesel_low_sulfur": "3.00",
+            "diesel-low-sulfur": "3.00",
             "premium": "3.47",
             "regular": "3.27"
           }
@@ -6791,7 +6791,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "2.93",
-            "diesel_low_sulfur": "3.04",
+            "diesel-low-sulfur": "3.04",
             "premium": "3.51",
             "regular": "3.31"
           }
@@ -6806,7 +6806,7 @@
           "name": "central",
           "prices": {
             "diesel": "2.97",
-            "diesel_low_sulfur": "3.05",
+            "diesel-low-sulfur": "3.05",
             "premium": "3.58",
             "regular": "3.35"
           }
@@ -6815,7 +6815,7 @@
           "name": "western",
           "prices": {
             "diesel": "2.98",
-            "diesel_low_sulfur": "3.06",
+            "diesel-low-sulfur": "3.06",
             "premium": "3.59",
             "regular": "3.36"
           }
@@ -6824,7 +6824,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "3.01",
-            "diesel_low_sulfur": "3.09",
+            "diesel-low-sulfur": "3.09",
             "premium": "3.63",
             "regular": "3.39"
           }
@@ -6839,7 +6839,7 @@
           "name": "central",
           "prices": {
             "diesel": "3.08",
-            "diesel_low_sulfur": "3.14",
+            "diesel-low-sulfur": "3.14",
             "premium": "3.66",
             "regular": "3.42"
           }
@@ -6848,7 +6848,7 @@
           "name": "western",
           "prices": {
             "diesel": "3.09",
-            "diesel_low_sulfur": "3.15",
+            "diesel-low-sulfur": "3.15",
             "premium": "3.67",
             "regular": "3.43"
           }
@@ -6857,7 +6857,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "3.12",
-            "diesel_low_sulfur": "3.18",
+            "diesel-low-sulfur": "3.18",
             "premium": "3.70",
             "regular": "3.46"
           }
@@ -6872,7 +6872,7 @@
           "name": "central",
           "prices": {
             "diesel": "3.15",
-            "diesel_low_sulfur": "3.22",
+            "diesel-low-sulfur": "3.22",
             "premium": "3.72",
             "regular": "3.50"
           }
@@ -6881,7 +6881,7 @@
           "name": "western",
           "prices": {
             "diesel": "3.16",
-            "diesel_low_sulfur": "3.23",
+            "diesel-low-sulfur": "3.23",
             "premium": "3.73",
             "regular": "3.51"
           }
@@ -6890,7 +6890,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "3.19",
-            "diesel_low_sulfur": "3.26",
+            "diesel-low-sulfur": "3.26",
             "premium": "3.76",
             "regular": "3.54"
           }
@@ -6905,7 +6905,7 @@
           "name": "central",
           "prices": {
             "diesel": "3.22",
-            "diesel_low_sulfur": "3.31",
+            "diesel-low-sulfur": "3.31",
             "premium": "3.79",
             "regular": "3.58"
           }
@@ -6914,7 +6914,7 @@
           "name": "western",
           "prices": {
             "diesel": "3.23",
-            "diesel_low_sulfur": "3.32",
+            "diesel-low-sulfur": "3.32",
             "premium": "3.80",
             "regular": "3.59"
           }
@@ -6923,7 +6923,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "3.27",
-            "diesel_low_sulfur": "3.36",
+            "diesel-low-sulfur": "3.36",
             "premium": "3.83",
             "regular": "3.62"
           }
@@ -6938,7 +6938,7 @@
           "name": "central",
           "prices": {
             "diesel": "3.28",
-            "diesel_low_sulfur": "3.38",
+            "diesel-low-sulfur": "3.38",
             "premium": "3.85",
             "regular": "3.62"
           }
@@ -6947,7 +6947,7 @@
           "name": "western",
           "prices": {
             "diesel": "3.29",
-            "diesel_low_sulfur": "3.39",
+            "diesel-low-sulfur": "3.39",
             "premium": "3.86",
             "regular": "3.63"
           }
@@ -6956,7 +6956,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "3.32",
-            "diesel_low_sulfur": "3.42",
+            "diesel-low-sulfur": "3.42",
             "premium": "3.89",
             "regular": "3.66"
           }
@@ -6971,7 +6971,7 @@
           "name": "central",
           "prices": {
             "diesel": "3.23",
-            "diesel_low_sulfur": "3.33",
+            "diesel-low-sulfur": "3.33",
             "premium": "3.82",
             "regular": "3.56"
           }
@@ -6980,7 +6980,7 @@
           "name": "western",
           "prices": {
             "diesel": "3.24",
-            "diesel_low_sulfur": "3.33",
+            "diesel-low-sulfur": "3.33",
             "premium": "3.83",
             "regular": "3.57"
           }
@@ -6989,7 +6989,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "3.28",
-            "diesel_low_sulfur": "3.37",
+            "diesel-low-sulfur": "3.37",
             "premium": "3.87",
             "regular": "3.60"
           }
@@ -7004,7 +7004,7 @@
           "name": "central",
           "prices": {
             "diesel": "3.18",
-            "diesel_low_sulfur": "3.27",
+            "diesel-low-sulfur": "3.27",
             "premium": "3.73",
             "regular": "3.49"
           }
@@ -7013,7 +7013,7 @@
           "name": "western",
           "prices": {
             "diesel": "3.19",
-            "diesel_low_sulfur": "3.28",
+            "diesel-low-sulfur": "3.28",
             "premium": "3.74",
             "regular": "3.50"
           }
@@ -7022,7 +7022,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "3.22",
-            "diesel_low_sulfur": "3.31",
+            "diesel-low-sulfur": "3.31",
             "premium": "3.78",
             "regular": "3.53"
           }
@@ -7037,7 +7037,7 @@
           "name": "central",
           "prices": {
             "diesel": "3.19",
-            "diesel_low_sulfur": "3.27",
+            "diesel-low-sulfur": "3.27",
             "premium": "3.73",
             "regular": "3.51"
           }
@@ -7046,7 +7046,7 @@
           "name": "western",
           "prices": {
             "diesel": "3.20",
-            "diesel_low_sulfur": "3.28",
+            "diesel-low-sulfur": "3.28",
             "premium": "3.74",
             "regular": "3.52"
           }
@@ -7055,7 +7055,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "3.23",
-            "diesel_low_sulfur": "3.32",
+            "diesel-low-sulfur": "3.32",
             "premium": "3.77",
             "regular": "3.56"
           }
@@ -7070,7 +7070,7 @@
           "name": "central",
           "prices": {
             "diesel": "3.19",
-            "diesel_low_sulfur": "3.26",
+            "diesel-low-sulfur": "3.26",
             "premium": "3.74",
             "regular": "3.53"
           }
@@ -7079,7 +7079,7 @@
           "name": "western",
           "prices": {
             "diesel": "3.19",
-            "diesel_low_sulfur": "3.27",
+            "diesel-low-sulfur": "3.27",
             "premium": "3.74",
             "regular": "3.54"
           }
@@ -7088,7 +7088,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "3.23",
-            "diesel_low_sulfur": "3.30",
+            "diesel-low-sulfur": "3.30",
             "premium": "3.78",
             "regular": "3.57"
           }
@@ -7103,7 +7103,7 @@
           "name": "central",
           "prices": {
             "diesel": "3.18",
-            "diesel_low_sulfur": "3.24",
+            "diesel-low-sulfur": "3.24",
             "premium": "3.73",
             "regular": "3.52"
           }
@@ -7112,7 +7112,7 @@
           "name": "western",
           "prices": {
             "diesel": "3.19",
-            "diesel_low_sulfur": "3.25",
+            "diesel-low-sulfur": "3.25",
             "premium": "3.74",
             "regular": "3.53"
           }
@@ -7121,7 +7121,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "3.23",
-            "diesel_low_sulfur": "3.29",
+            "diesel-low-sulfur": "3.29",
             "premium": "3.77",
             "regular": "3.56"
           }
@@ -7136,7 +7136,7 @@
           "name": "central",
           "prices": {
             "diesel": "3.21",
-            "diesel_low_sulfur": "3.25",
+            "diesel-low-sulfur": "3.25",
             "premium": "3.70",
             "regular": "3.51"
           }
@@ -7145,7 +7145,7 @@
           "name": "western",
           "prices": {
             "diesel": "3.22",
-            "diesel_low_sulfur": "3.26",
+            "diesel-low-sulfur": "3.26",
             "premium": "3.71",
             "regular": "3.52"
           }
@@ -7154,7 +7154,7 @@
           "name": "eastern",
           "prices": {
             "diesel": "3.25",
-            "diesel_low_sulfur": "3.30",
+            "diesel-low-sulfur": "3.30",
             "premium": "3.74",
             "regular": "3.56"
           }
