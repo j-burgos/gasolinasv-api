@@ -2,10 +2,14 @@ Rails.application.routes.draw do
   namespace :api do
     namespace :v1 do
       resources :gas_types, path: '/gas-types', param: :identifier  do
-        resources :prices, :only => ['index']
+        resources :prices, :only => ['index'] do
+          get 'latest', on: :collection
+        end
       end
       resources :zones, param: :identifier do
-        resources :prices, :only => ['index']
+        resources :prices, :only => ['index'] do
+          get 'latest', on: :collection
+        end
       end
     end
   end

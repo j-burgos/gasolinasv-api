@@ -39,6 +39,13 @@ class Api::V1::PricesController < ApplicationController
     @price.destroy
   end
 
+  # GET /prices/latest
+  def latest
+    query = get_query
+    @price = if query then Price.where(query).order("created_at").last else Price.all.last end
+    render json: @price
+  end
+
   private
     # Use callbacks to share common setup or constraints between actions.
     def set_price
