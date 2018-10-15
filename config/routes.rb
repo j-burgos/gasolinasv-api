@@ -11,6 +11,9 @@ Rails.application.routes.draw do
           get 'latest', on: :collection
         end
       end
+      resources :prices do
+        get 'latest', on: :collection
+      end
     end
   end
   # For details on the DSL available within this file, see http://guides.rubyonrails.org/routing.html

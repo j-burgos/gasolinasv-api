@@ -42,8 +42,14 @@ class Api::V1::PricesController < ApplicationController
   # GET /prices/latest
   def latest
     query = get_query
-    @price = if query then Price.where(query).order("created_at").last else Price.all.last end
-    render json: @price
+    last = Price.all.order("created_at").last
+    @prices = if query
+      then
+        Price.where(query.merge({ from: last.from, to: last.to }))
+      else
+        Price.where(from: last.from)
+      end
+    render json: @prices
   end
 
   private
